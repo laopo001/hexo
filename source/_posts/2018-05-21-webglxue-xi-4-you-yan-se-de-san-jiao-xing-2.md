@@ -3,7 +3,6 @@ title: webgl学习5——有颜色的三角形
 slug: webglxue-xi-4-you-yan-se-de-san-jiao-xing-2
 date_published: 2018-05-21T00:00:00.000Z
 date_updated: 2018-05-21T16:03:47.000Z
-draft: true
 ---
 
     // vertex shader

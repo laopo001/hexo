@@ -1,7 +1,7 @@
 ---
 title: pbr 材质实现
 slug: pbr-cai-zhi-shi-xian
-date_published: 1970-01-01T00:00:00.000Z
+date_published: 2018-12-25T00:00:00.000Z
 date_updated: 2018-12-25T15:00:07.000Z
 draft: true
 ---

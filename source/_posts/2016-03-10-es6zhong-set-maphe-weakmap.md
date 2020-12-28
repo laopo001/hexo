@@ -47,7 +47,7 @@ Map 是 ES6 新增的有序键值对集合。键值对的 key 和 value 都可�
     o[key4] = 4;
     
 
-![](/images/2016/03/P6M-W6W150-1-7N9990EGEI.png)
+![](/source/images/2016/03/P6M-W6W150-1-7N9990EGEI.png)
 
 最后，对象o只有两个属性。应为会调用toString()方法，或者说String强制转换。
 

@@ -75,7 +75,7 @@ date_updated: 2016-12-23T06:31:40.000Z
 Blinn-Phong是一种简化的PHong模型。
 
 Blinn-Phong模型很大程度上和Phong是相似的，不过它稍微改进了Phong模型，使之能够克服我们所讨论到的问题。它放弃使用反射向量，而是基于我们现在所说的一个叫做半程向量（halfway vector）的向量，这是个单位向量，它在视线方向和光线方向的中间。半程向量和表面法线向量越接近，镜面反射成份就越大。转自[高级光照](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/01%20Advanced%20Lighting/)。
-![](/images/2016/12/advanced_lighting_halfway_vector.png)
+![](/source/images/2016/12/advanced_lighting_halfway_vector.png)
 
 先从vertex shader（点着色器）看起，uniform是application的输入。worldViewProjection是一个mat4的世界-视图-投影矩阵。这里的vertex shader是一个平常的，没有位置变幻等操作。主要是向PIXEL传递了uv（vec2纹理坐标），position（vec3点坐标），normal（vec3法向量）。
 
@@ -94,7 +94,7 @@ vec3 vLightPosition是光源的坐标。
 `vec3 color = texture2D(textureSampler, vUV).rgb;`当前原始的颜色。// texture2D 返回类型的精度为lowp是一个四维向量。`.rgb`是把前3个值赋值给color:vec3向量。一共是`rgba`4个维度。同理`.rga`就是取第1，2，4维度的值。
 
 `float ndl = max(0., dot(vNormalW, lightVectorW));`求法向量与lightVectorW向量的点积。点积不是一个向量了，他是一个常数（float）。点积还可以判断向量之间的夹角，等于0，则两向量垂直，大于0为锐角，小于0为钝角。还有cross叉积。这里ndl是与0对比的最大值。与法向量为钝角时，则是光照在背面。即没有光照。则颜色vec3向量乘以0，为黑色。dot(vNormalW, lightVectorW)就是这两个向量夹角的cos值,vNormalW,lightVectorW都是模为1的向量。ndl是一个[0,1)之间。
-![](/images/2016/04/-C-FOX8P---93-D-PBI-HTQ.png)
+![](/source/images/2016/04/-C-FOX8P---93-D-PBI-HTQ.png)
 
 `vec3 angleW = normalize(viewDirectionW + lightVectorW);`求半程向量。
 

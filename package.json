@@ -17,7 +17,7 @@
     "hexo-server": "^0.3.3"
   },
   "scripts": {
-    "dev": "hexo server -p $PORT",
-    "build": "hexo generate"
+    "dev": "cp -r source/images public/source/ && hexo server -p $PORT",
+    "build": "hexo generate && cp -r source/images public/source/"
   }
 }

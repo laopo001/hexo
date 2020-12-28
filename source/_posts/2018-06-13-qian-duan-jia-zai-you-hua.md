@@ -34,4 +34,4 @@ WebP是Google新推出的影像技术，它可让网页图档有效进行压缩�
 [gulp-webp](https://github.com/sindresorhus/gulp-webp)这个转WebP的gulp插件还是蛮好用的。
 
 不过WebP的图像格式，在浏览器上面兼容还不够好。
-![](/images/2018/06/QQ--20180613234153.png)
+![](/source/images/2018/06/QQ--20180613234153.png)

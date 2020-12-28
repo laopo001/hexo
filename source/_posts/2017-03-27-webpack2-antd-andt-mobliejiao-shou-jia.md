@@ -9,7 +9,7 @@ date_updated: 2017-03-27T11:03:03.000Z
 
 > 前端工程目录
 
-![](/images/2017/03/-PUT--G-NDM6-2DSZ--DB-I.png)
+![](/source/images/2017/03/-PUT--G-NDM6-2DSZ--DB-I.png)
 
 > webpack.config.js
 

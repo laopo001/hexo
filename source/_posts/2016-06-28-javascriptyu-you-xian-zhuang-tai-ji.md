@@ -40,7 +40,7 @@ date_updated: 2017-01-17T06:23:22.000Z
 
 > 触发
 
-![](/images/2016/06/038EBQON--2FIS2M2-J---H.png)
+![](/source/images/2016/06/038EBQON--2FIS2M2-J---H.png)
 
 注意，onscene在onto_scene前面执行的。
 

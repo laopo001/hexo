@@ -101,4 +101,4 @@ curl [http://localhost:4873/，没有timeout。这时已经搭好了。不过只
 已经直接使用私有仓库就行了。如果找不到库，会自动到上游仓库去拉的。然后`npm adduser`、`npm login`、`npm publish` 等命令sinopia搭建的npm库都是支持的。
 
 如下是Sinopia搭建npm库的首页。publish了一个库测试了下。
-![](/images/2017/09/QQ--20170911152353-1.png)
+![](/source/images/2017/09/QQ--20170911152353-1.png)

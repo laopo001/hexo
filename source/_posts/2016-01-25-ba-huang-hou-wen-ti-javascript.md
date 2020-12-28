@@ -120,12 +120,12 @@ tags: 算法
     
 
 结果如下
-![](/images/2016/01/IF-HW--G4-2--U-----S615.png)
+![](/source/images/2016/01/IF-HW--G4-2--U-----S615.png)
 
 一共92个解。
 
 该题可以利用左右对称。只需求出46个解。就可以得出92个解。在这里两种情况都要考虑到。 如果其中有一排都为false且不是最后一排。则退后一行（row=row-2）。继续上一行检测.如果上一行的最后一个为1，退后2排（row=row-3）。
-![](/images/2016/02/QDJ0YM7-K0-T-YUK-G-OFKA.png)
+![](/source/images/2016/02/QDJ0YM7-K0-T-YUK-G-OFKA.png)
 
             function NQueens(order){
                 var tempCol=0;

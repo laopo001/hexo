@@ -39,13 +39,13 @@ date_updated: 2016-08-17T16:16:54.000Z
 成功后，访问localhost:3000
 
 这是页面右上角显示
-![](/images/2016/08/LHY-X3W-3-WY30O5P3GC--5.png)
+![](/source/images/2016/08/LHY-X3W-3-WY30O5P3GC--5.png)
 
 访问localhost:3001
 
 显示browser-sync后台,这里有很多选项。
-![](/images/2016/08/TG0GBZ-Y-E-QP_DO51WG-PF.png)
+![](/source/images/2016/08/TG0GBZ-Y-E-QP_DO51WG-PF.png)
 
 > browser-sync 最嗨的是可以同步浏览器操作。
-> ![](/images/2016/08/scroll-demo.gif)
-> ![](/images/2016/08/2668106730-550a6d7e47f8c_articlex.gif)
+> ![](/source/images/2016/08/scroll-demo.gif)
+> ![](/source/images/2016/08/2668106730-550a6d7e47f8c_articlex.gif)

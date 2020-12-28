@@ -25,11 +25,11 @@ v8为了减少对象访问属性的时间。不使用动态查找访问属性，
 
 当执行 `new Point(1,2)` 时，会创建一个对应Point的隐藏类C0。这时还是一个空对象。
 
-![map_trans_a](https://github.com/v8/v8/wiki/images/map_trans_a.png)
+![map_trans_a](https://github.com/v8/v8/wiki/source/images/map_trans_a.png)
 
 当执行 `this.x = x;` 时,这时对象上面添加了`x`属性，v8会基于隐藏类C0创建隐藏类C1。这时`Point`对应的隐藏类是C1。
 
-![](https://github.com/v8/v8/wiki/images/map_trans_b.png)
+![](https://github.com/v8/v8/wiki/source/images/map_trans_b.png)
 
 当执行 `this.y = y;` 时,这时对象上面又添加了`y`属性，v8会基于隐藏类C1创建隐藏类C2。并对应隐藏类C2。
 

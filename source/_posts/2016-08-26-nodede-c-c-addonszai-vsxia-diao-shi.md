@@ -16,6 +16,6 @@ date_updated: 2016-09-02T10:38:20.000Z
 - 这时工作目录出现一个build文件夹，下面有个bind.sln。双击vs就打开了这个解决方案。
 
 在打开项目的属性，如下图配置，确定。
-![](/images/2016/08/KY-XVA--JG3KBY-OH40BC-4.png)
+![](/source/images/2016/08/KY-XVA--JG3KBY-OH40BC-4.png)
 - 点击调试,出现node的命令行。这里调用方法，vs中打断点就能断点调试了。
-![](/images/2016/08/PFXE9F-7KSN-W-U-L6HE2-Q.png)
+![](/source/images/2016/08/PFXE9F-7KSN-W-U-L6HE2-Q.png)

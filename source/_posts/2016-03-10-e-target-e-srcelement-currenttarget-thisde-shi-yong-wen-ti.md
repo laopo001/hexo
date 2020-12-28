@@ -34,4 +34,4 @@ date_updated: 2017-01-17T06:53:33.000Z
     },false)
 
 按F12看控制台，点击表格。输出如下：
-![](/images/2016/03/-5JR6-GOG2-0U--QLP-EJ93.png)
+![](/source/images/2016/03/-5JR6-GOG2-0U--QLP-EJ93.png)

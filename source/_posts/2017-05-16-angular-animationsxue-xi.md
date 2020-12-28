@@ -1,12 +1,12 @@
 ---
-title: @angular/animations学习
+title: angular/animations学习
 slug: angular-animationsxue-xi
 date_published: 2017-05-16T12:00:57.000Z
 date_updated: 2017-05-16T12:00:57.000Z
 ---
 
 ng这个animations还是蛮好用的。加入场，离场各种效果，还是满酷炫的。写了一个提示组件。是一个队列，依次显示。然后按照定义的时间消失，在提示进场和离场时还有动画。如图：
-![](/content/images/2017/05/QQ--20170516195646.png)
+![](/images/2017/05/QQ--20170516195646.png)
 
 > ng4代码
 

@@ -17,7 +17,7 @@ date_updated: 2018-02-09T07:14:37.000Z
 
 在经过一，二部后已经node_modules中出来jpush-ui外，基本没有了。没啥优化空间了。官网的页面是很多的，20多个页面。可以看到下图。这2.8M基本都是页面。
 
-![image](/content/images/2017/11/webpack1.png)
+![image](/images/2017/11/webpack1.png)
 大小备注15M+第一次23.6M(client.js)dll打包，分成3个文件，client、vendor、polyfill33.1M(client.js)去掉momentjs库42.8M(client.js)去掉jquery库
 #### 工具
 

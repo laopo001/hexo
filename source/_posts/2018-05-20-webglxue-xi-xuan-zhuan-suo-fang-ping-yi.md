@@ -62,8 +62,8 @@ gl.enableVertexAttribArray(index);
 
 void gl.drawArrays(mode, first, count);
 
-![](/content/images/2018/05/1.png)
-![](/content/images/2018/05/2.png)
+![](/images/2018/05/1.png)
+![](/images/2018/05/2.png)
 
 > demo
 

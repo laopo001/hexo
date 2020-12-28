@@ -51,7 +51,7 @@ Sass(使用Sass的函数、混合宏这些功能来实现):
 > px2rem-0.2.0.vsix
 
 这一个vs code下的[px2rem插件](https://github.com/Maroon1/px2rem)。
-![](/content/images/2017/03/QQ--20170317171649.png)
+![](/images/2017/03/QQ--20170317171649.png)
 
 > scss去单位
 

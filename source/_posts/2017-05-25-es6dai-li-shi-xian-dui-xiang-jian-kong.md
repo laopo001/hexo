@@ -46,7 +46,7 @@ date_updated: 2017-05-25T11:19:35.000Z
             Pobj.name.first[1]='大地瓜'
     
 
-![](/content/images/2017/05/QQ--20170523193406.png)
+![](/images/2017/05/QQ--20170523193406.png)
 
 最近发现上面的方法还是有bug，如下代码，obj.name最后变成了代理对象。
 

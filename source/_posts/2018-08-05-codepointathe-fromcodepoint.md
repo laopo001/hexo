@@ -31,7 +31,7 @@ JavaScript 允许采用\uxxxx形式表示一个字符，其中xxxx表示字符�
 > codePointAt<=> fromCodePoint
 
 这是es6的方法，能够正确处理 4 个字节储存的字符。
-![](/content/images/2018/08/QQ--20180804230557.png)
+![](/images/2018/08/QQ--20180804230557.png)
 
 而且es6还改进了，将码点放入大括号，就能正确解读该字符。
 

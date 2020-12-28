@@ -1,7 +1,7 @@
 ---
 title: OpenGl学习2--Blinn-Phong光照模型
 slug: openglxue-xi-2-phongguang-zhao-mo-xing
-date_published: 2016-12-23T06:31:40.000Z
+date: 2016-12-23T06:31:40.000Z
 date_updated: 2016-12-23T06:31:40.000Z
 ---
 

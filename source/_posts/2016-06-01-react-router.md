@@ -1,7 +1,7 @@
 ---
 title: React-Router使用
 slug: react-router
-date_published: 2016-06-01T10:54:22.000Z
+date: 2016-06-01T10:54:22.000Z
 date_updated: 2017-01-17T06:20:39.000Z
 ---
 

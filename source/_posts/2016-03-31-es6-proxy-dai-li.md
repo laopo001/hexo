@@ -1,7 +1,7 @@
 ---
 title: ES6--Proxy
 slug: es6-proxy-dai-li
-date_published: 2016-03-31T12:16:22.000Z
+date: 2016-03-31T12:16:22.000Z
 date_updated: 2017-01-17T06:45:42.000Z
 ---
 

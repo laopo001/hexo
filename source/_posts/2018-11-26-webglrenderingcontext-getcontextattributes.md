@@ -1,7 +1,7 @@
 ---
 title: WebGLRenderingContext.getContextAttributes()
 slug: webglrenderingcontext-getcontextattributes
-date_published: 2018-11-25T17:28:49.000Z
+date: 2018-11-25T17:28:49.000Z
 date_updated: 2018-11-25T17:28:53.000Z
 ---
 

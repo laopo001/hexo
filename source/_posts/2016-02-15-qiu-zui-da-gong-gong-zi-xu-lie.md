@@ -1,7 +1,7 @@
 ---
 title: 求最大公共子序列（动态规划）
 slug: qiu-zui-da-gong-gong-zi-xu-lie
-date_published: 2016-02-15T09:41:10.000Z
+date: 2016-02-15T09:41:10.000Z
 date_updated: 2017-01-17T07:17:00.000Z
 tags: 算法
 ---

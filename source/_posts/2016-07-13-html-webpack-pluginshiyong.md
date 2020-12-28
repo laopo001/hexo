@@ -1,7 +1,7 @@
 ---
 title: html-webpack-plugin使用
 slug: html-webpack-pluginshiyong
-date_published: 2016-07-13T10:30:59.000Z
+date: 2016-07-13T10:30:59.000Z
 date_updated: 2017-01-17T06:31:04.000Z
 ---
 

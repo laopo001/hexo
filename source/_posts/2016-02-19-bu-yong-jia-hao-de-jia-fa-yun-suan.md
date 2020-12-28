@@ -1,7 +1,7 @@
 ---
 title: 计算机加法原理
 slug: bu-yong-jia-hao-de-jia-fa-yun-suan
-date_published: 2016-02-19T01:10:01.000Z
+date: 2016-02-19T01:10:01.000Z
 date_updated: 2017-01-17T07:07:07.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: chrome OffscreenCanvas
 slug: webgl-offscreencanvas
-date_published: 2018-12-21T10:34:18.000Z
+date: 2018-12-21T10:34:18.000Z
 date_updated: 2018-12-21T10:35:21.000Z
 ---
 

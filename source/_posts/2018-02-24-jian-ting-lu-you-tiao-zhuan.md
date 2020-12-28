@@ -1,7 +1,7 @@
 ---
 title: 监听路由跳转
 slug: jian-ting-lu-you-tiao-zhuan
-date_published: 2018-02-24T10:01:23.000Z
+date: 2018-02-24T10:01:23.000Z
 date_updated: 2018-03-01T07:10:04.000Z
 ---
 

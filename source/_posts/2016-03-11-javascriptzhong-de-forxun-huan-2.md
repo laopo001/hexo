@@ -1,7 +1,7 @@
 ---
 title: JavaScript——跳多层for循环
 slug: javascriptzhong-de-forxun-huan-2
-date_published: 2016-03-11T07:32:58.000Z
+date: 2016-03-11T07:32:58.000Z
 date_updated: 2017-01-17T06:52:44.000Z
 ---
 

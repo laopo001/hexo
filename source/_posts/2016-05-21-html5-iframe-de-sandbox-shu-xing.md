@@ -1,7 +1,7 @@
 ---
 title: HTML5 <iframe> 的 sandbox 属性以及 X-Frame-Options
 slug: html5-iframe-de-sandbox-shu-xing
-date_published: 2016-05-21T08:59:42.000Z
+date: 2016-05-21T08:59:42.000Z
 date_updated: 2017-01-17T06:19:26.000Z
 ---
 

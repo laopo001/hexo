@@ -1,7 +1,7 @@
 ---
 title: e.target、e.srcElement、currentTarget、this的使用问题
 slug: e-target-e-srcelement-currenttarget-thisde-shi-yong-wen-ti
-date_published: 2016-03-10T10:25:21.000Z
+date: 2016-03-10T10:25:21.000Z
 date_updated: 2017-01-17T06:53:33.000Z
 ---
 

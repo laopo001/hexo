@@ -1,7 +1,7 @@
 ---
 title: Binary Tree Level Order Traversal--leetcode
 slug: binary-tree-level-order-traversal-leetcode
-date_published: 2016-09-22T09:44:00.000Z
+date: 2016-09-22T09:44:00.000Z
 date_updated: 2017-03-22T09:47:32.000Z
 tags: 算法
 ---

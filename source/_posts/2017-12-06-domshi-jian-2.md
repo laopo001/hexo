@@ -1,7 +1,7 @@
 ---
 title: js笔记4
 slug: domshi-jian-2
-date_published: 2017-12-06T03:07:40.000Z
+date: 2017-12-06T03:07:40.000Z
 date_updated: 2018-03-01T07:11:38.000Z
 ---
 

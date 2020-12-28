@@ -1,7 +1,7 @@
 ---
 title: escape;encodeURI;encodeURIComponent
 slug: escape-encodeuri-encodeuricomponent
-date_published: 2016-07-14T09:17:32.000Z
+date: 2016-07-14T09:17:32.000Z
 date_updated: 2017-01-17T06:30:22.000Z
 ---
 

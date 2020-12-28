@@ -1,7 +1,7 @@
 ---
 title: CSRF攻击与防御
 slug: csrfgong-ji-yu-fang-yu
-date_published: 2017-01-14T04:43:00.000Z
+date: 2017-01-14T04:43:00.000Z
 date_updated: 2017-02-18T05:48:22.000Z
 ---
 

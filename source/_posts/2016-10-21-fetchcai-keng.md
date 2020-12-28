@@ -1,7 +1,7 @@
 ---
 title: fetch踩坑
 slug: fetchcai-keng
-date_published: 2016-10-21T07:54:37.000Z
+date: 2016-10-21T07:54:37.000Z
 date_updated: 2016-10-21T07:54:37.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: js 错误类型
 slug: js-cuo-wu-lei-xing
-date_published: 2019-03-06T16:35:21.000Z
+date: 2019-03-06T16:35:21.000Z
 date_updated: 2019-03-06T17:04:44.000Z
 ---
 

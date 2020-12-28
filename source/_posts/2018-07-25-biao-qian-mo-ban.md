@@ -1,7 +1,7 @@
 ---
 title: 标签模板
 slug: biao-qian-mo-ban
-date_published: 2018-07-25T12:27:52.000Z
+date: 2018-07-25T12:27:52.000Z
 date_updated: 2018-07-25T12:27:55.000Z
 ---
 

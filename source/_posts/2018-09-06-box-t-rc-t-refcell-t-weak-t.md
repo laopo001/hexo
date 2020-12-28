@@ -1,7 +1,7 @@
 ---
 title: Box<T>,Rc<T>,RefCell<T>,Weak<T>
 slug: box-t-rc-t-refcell-t-weak-t
-date_published: 2018-09-06T02:17:09.000Z
+date: 2018-09-06T02:17:09.000Z
 date_updated: 2018-09-06T02:17:09.000Z
 ---
 

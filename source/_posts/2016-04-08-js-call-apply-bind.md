@@ -1,7 +1,7 @@
 ---
 title: js--call、apply、bind
 slug: js-call-apply-bind
-date_published: 2016-04-08T07:52:25.000Z
+date: 2016-04-08T07:52:25.000Z
 date_updated: 2017-01-17T06:39:21.000Z
 ---
 

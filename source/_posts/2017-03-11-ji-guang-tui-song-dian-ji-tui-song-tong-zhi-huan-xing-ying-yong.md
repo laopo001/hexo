@@ -1,7 +1,7 @@
 ---
 title: 极光推送-点击推送通知唤醒应用android
 slug: ji-guang-tui-song-dian-ji-tui-song-tong-zhi-huan-xing-ying-yong
-date_published: 2017-03-11T09:22:12.000Z
+date: 2017-03-11T09:22:12.000Z
 date_updated: 2017-03-11T10:03:43.000Z
 ---
 

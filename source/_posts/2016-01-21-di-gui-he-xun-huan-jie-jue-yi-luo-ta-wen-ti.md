@@ -1,7 +1,7 @@
 ---
 title: 递归和迭代(循环)解决汉罗塔问题(javascript)
 slug: di-gui-he-xun-huan-jie-jue-yi-luo-ta-wen-ti
-date_published: 2016-01-21T09:16:00.000Z
+date: 2016-01-21T09:16:00.000Z
 date_updated: 2017-01-17T07:26:25.000Z
 tags: 算法
 ---

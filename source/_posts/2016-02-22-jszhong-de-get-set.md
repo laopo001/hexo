@@ -1,7 +1,7 @@
 ---
 title: js中的get;set;
 slug: jszhong-de-get-set
-date_published: 2016-02-22T05:39:36.000Z
+date: 2016-02-22T05:39:36.000Z
 date_updated: 2017-01-17T07:03:31.000Z
 ---
 

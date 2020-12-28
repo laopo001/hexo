@@ -1,7 +1,7 @@
 ---
 title: 前端加载优化2
 slug: qian-duan-jia-zai-you-hua
-date_published: 2018-06-13T15:40:33.000Z
+date: 2018-06-13T15:40:33.000Z
 date_updated: 2018-06-13T15:42:27.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: webpack+browser-sync
 slug: webpack-browser-sync
-date_published: 2016-08-17T09:47:59.000Z
+date: 2016-08-17T09:47:59.000Z
 date_updated: 2016-08-17T16:16:54.000Z
 ---
 

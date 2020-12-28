@@ -1,7 +1,7 @@
 ---
 title: 断点续传 之 HTTP状态码206和416
 slug: duan-dian-xu-chuan-zhi-httpzhuang-tai-ma-206he-416
-date_published: 2018-08-03T13:21:19.000Z
+date: 2018-08-03T13:21:19.000Z
 date_updated: 2018-10-03T08:27:06.000Z
 ---
 

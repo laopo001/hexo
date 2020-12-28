@@ -1,7 +1,7 @@
 ---
 title: Validate Binary Search Tree -- LeetCode
 slug: validate-binary-search-tree-leetcode
-date_published: 2017-02-22T10:09:30.000Z
+date: 2017-02-22T10:09:30.000Z
 date_updated: 2017-03-16T07:46:33.000Z
 tags: 算法
 ---

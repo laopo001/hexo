@@ -1,7 +1,7 @@
 ---
 title: Text Justification
 slug: text-justification
-date_published: 2016-03-12T19:47:51.000Z
+date: 2016-03-12T19:47:51.000Z
 date_updated: 2017-01-17T06:51:34.000Z
 tags: LeetCode
 ---

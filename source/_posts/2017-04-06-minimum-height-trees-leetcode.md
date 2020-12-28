@@ -1,7 +1,7 @@
 ---
 title: Minimum Height Trees--LeetCode
 slug: minimum-height-trees-leetcode
-date_published: 2017-04-06T06:46:00.000Z
+date: 2017-04-06T06:46:00.000Z
 date_updated: 2017-04-06T06:56:27.000Z
 ---
 

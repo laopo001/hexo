@@ -1,7 +1,7 @@
 ---
 title: 65. Valid Number--LeetCode
 slug: 65-valid-number-leetcode
-date_published: 2016-02-24T07:49:00.000Z
+date: 2016-02-24T07:49:00.000Z
 date_updated: 2017-01-17T07:00:56.000Z
 tags: LeetCode
 ---

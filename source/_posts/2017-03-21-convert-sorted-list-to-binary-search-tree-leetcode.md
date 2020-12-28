@@ -1,7 +1,7 @@
 ---
 title: Convert Sorted List to Binary Search Tree--leetcode
 slug: convert-sorted-list-to-binary-search-tree-leetcode
-date_published: 2017-03-21T10:54:00.000Z
+date: 2017-03-21T10:54:00.000Z
 date_updated: 2017-03-21T11:01:04.000Z
 tags: 算法
 ---

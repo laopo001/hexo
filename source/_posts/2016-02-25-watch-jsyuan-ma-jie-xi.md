@@ -1,7 +1,7 @@
 ---
 title: Watch.js源码解析
 slug: watch-jsyuan-ma-jie-xi
-date_published: 2016-02-25T09:31:30.000Z
+date: 2016-02-25T09:31:30.000Z
 date_updated: 2017-01-17T06:59:42.000Z
 ---
 

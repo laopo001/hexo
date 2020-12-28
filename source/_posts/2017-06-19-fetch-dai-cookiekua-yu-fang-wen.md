@@ -1,7 +1,7 @@
 ---
 title: fetch 带cookie跨域访问
 slug: fetch-dai-cookiekua-yu-fang-wen
-date_published: 2017-06-19T08:28:41.000Z
+date: 2017-06-19T08:28:41.000Z
 date_updated: 2017-06-19T08:33:48.000Z
 ---
 

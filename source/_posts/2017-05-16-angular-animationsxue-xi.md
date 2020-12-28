@@ -1,7 +1,7 @@
 ---
 title: angular/animations学习
 slug: angular-animationsxue-xi
-date_published: 2017-05-16T12:00:57.000Z
+date: 2017-05-16T12:00:57.000Z
 date_updated: 2017-05-16T12:00:57.000Z
 ---
 

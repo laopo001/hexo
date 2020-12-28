@@ -1,7 +1,7 @@
 ---
 title: es6 装饰器-权限管理
 slug: es6-zhuang-shi-qi-quan-xian-guan-li
-date_published: 2016-07-20T10:08:36.000Z
+date: 2016-07-20T10:08:36.000Z
 date_updated: 2017-01-17T06:28:03.000Z
 ---
 

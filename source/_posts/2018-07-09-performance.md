@@ -1,7 +1,7 @@
 ---
 title: performance
 slug: performance
-date_published: 2018-07-09T02:36:31.000Z
+date: 2018-07-09T02:36:31.000Z
 date_updated: 2018-07-09T03:30:32.000Z
 ---
 

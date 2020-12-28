@@ -1,7 +1,7 @@
 ---
 title: Web Notification+Web socket+express实践
 slug: web-notification-web-socket-expressshi-jian
-date_published: 2017-02-24T10:59:14.000Z
+date: 2017-02-24T10:59:14.000Z
 date_updated: 2017-02-24T11:05:57.000Z
 ---
 

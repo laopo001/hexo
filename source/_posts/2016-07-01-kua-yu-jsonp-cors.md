@@ -1,7 +1,7 @@
 ---
 title: 跨域（JSONP，CORS）
 slug: kua-yu-jsonp-cors
-date_published: 2016-07-01T05:35:58.000Z
+date: 2016-07-01T05:35:58.000Z
 date_updated: 2017-01-17T06:31:43.000Z
 ---
 

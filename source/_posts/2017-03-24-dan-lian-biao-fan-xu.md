@@ -1,7 +1,7 @@
 ---
 title: 单链表反序。
 slug: dan-lian-biao-fan-xu
-date_published: 2017-03-24T07:21:54.000Z
+date: 2017-03-24T07:21:54.000Z
 date_updated: 2017-03-24T08:07:58.000Z
 ---
 

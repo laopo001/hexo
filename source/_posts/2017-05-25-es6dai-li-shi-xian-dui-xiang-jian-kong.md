@@ -1,7 +1,7 @@
 ---
 title: ES6代理实现对象监控
 slug: es6dai-li-shi-xian-dui-xiang-jian-kong
-date_published: 2017-05-25T11:19:35.000Z
+date: 2017-05-25T11:19:35.000Z
 date_updated: 2017-05-25T11:19:35.000Z
 ---
 

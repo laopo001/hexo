@@ -1,7 +1,7 @@
 ---
 title: Hammer.js--移动端Web手势
 slug: hammer-js-yi-dong-duan-webshou-shi
-date_published: 2016-03-31T02:39:01.000Z
+date: 2016-03-31T02:39:01.000Z
 date_updated: 2017-01-17T06:47:42.000Z
 ---
 

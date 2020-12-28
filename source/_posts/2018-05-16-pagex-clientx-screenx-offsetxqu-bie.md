@@ -1,7 +1,7 @@
 ---
 title: pageX,clientX,screenX,offsetX   区别
 slug: pagex-clientx-screenx-offsetxqu-bie
-date_published: 2018-05-16T10:58:35.000Z
+date: 2018-05-16T10:58:35.000Z
 date_updated: 2018-05-16T11:02:10.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Recover Binary Search Tree--leetcode
 slug: recover-binary-search-tree-leetcode
-date_published: 2016-12-07T07:05:00.000Z
+date: 2016-12-07T07:05:00.000Z
 date_updated: 2017-03-26T05:13:04.000Z
 ---
 

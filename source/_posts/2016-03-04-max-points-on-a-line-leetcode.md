@@ -1,7 +1,7 @@
 ---
 title: Max Points on a Line(leetcode)
 slug: max-points-on-a-line-leetcode
-date_published: 2016-03-04T06:43:12.000Z
+date: 2016-03-04T06:43:12.000Z
 date_updated: 2017-01-17T06:56:24.000Z
 tags: LeetCode
 ---

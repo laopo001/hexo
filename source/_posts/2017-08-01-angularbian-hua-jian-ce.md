@@ -1,7 +1,7 @@
 ---
 title: angular变化检测
 slug: angularbian-hua-jian-ce
-date_published: 2017-08-01T07:13:48.000Z
+date: 2017-08-01T07:13:48.000Z
 date_updated: 2017-08-04T09:10:32.000Z
 ---
 

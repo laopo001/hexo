@@ -1,7 +1,7 @@
 ---
 title: React-Native 安卓下极光推送
 slug: react-native-an-zhuo-xia-ji-guang-tui-song
-date_published: 2017-03-10T10:11:41.000Z
+date: 2017-03-10T10:11:41.000Z
 date_updated: 2017-03-10T10:11:41.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Math.min(),Math.max()
 slug: math-min-math-max
-date_published: 2018-07-30T09:49:57.000Z
+date: 2018-07-30T09:49:57.000Z
 date_updated: 2018-07-30T09:50:02.000Z
 ---
 

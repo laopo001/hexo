@@ -1,7 +1,7 @@
 ---
 title: Palindrome Pairs--leetcode
 slug: palindrome-pairs
-date_published: 2016-03-12T09:28:54.000Z
+date: 2016-03-12T09:28:54.000Z
 date_updated: 2017-01-17T06:52:09.000Z
 tags: LeetCode
 ---

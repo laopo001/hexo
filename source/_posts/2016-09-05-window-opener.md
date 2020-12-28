@@ -1,7 +1,7 @@
 ---
 title: 不安全的target="_blank"
 slug: window-opener
-date_published: 2016-09-05T03:28:50.000Z
+date: 2016-09-05T03:28:50.000Z
 date_updated: 2016-09-14T02:07:55.000Z
 ---
 

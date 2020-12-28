@@ -1,7 +1,7 @@
 ---
 title: leetcode ---Word Break
 slug: leetcode-word-break
-date_published: 2017-12-29T07:47:48.000Z
+date: 2017-12-29T07:47:48.000Z
 date_updated: 2017-12-29T07:47:48.000Z
 ---
 

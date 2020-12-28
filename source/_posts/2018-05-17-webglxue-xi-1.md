@@ -1,7 +1,7 @@
 ---
 title: webgl学习1——画一点
 slug: webglxue-xi-1
-date_published: 2018-05-17T12:32:15.000Z
+date: 2018-05-17T12:32:15.000Z
 date_updated: 2018-05-21T11:05:14.000Z
 ---
 

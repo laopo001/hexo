@@ -1,7 +1,7 @@
 ---
 title: generate-parentheses--LeetCode
 slug: submission-details-leetcode
-date_published: 2016-09-07T10:37:04.000Z
+date: 2016-09-07T10:37:04.000Z
 date_updated: 2016-09-27T10:40:05.000Z
 ---
 

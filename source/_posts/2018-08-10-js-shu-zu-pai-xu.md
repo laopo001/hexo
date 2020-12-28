@@ -1,7 +1,7 @@
 ---
 title: JS 数组排序
 slug: js-shu-zu-pai-xu
-date_published: 2018-08-10T09:06:06.000Z
+date: 2018-08-10T09:06:06.000Z
 date_updated: 2018-08-10T09:06:06.000Z
 ---
 

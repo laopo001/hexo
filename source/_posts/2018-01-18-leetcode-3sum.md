@@ -1,7 +1,7 @@
 ---
 title: leetcode--3Sum
 slug: leetcode-3sum
-date_published: 2018-01-18T05:50:26.000Z
+date: 2018-01-18T05:50:26.000Z
 date_updated: 2018-01-20T07:46:42.000Z
 ---
 

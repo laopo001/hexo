@@ -1,7 +1,7 @@
 ---
 title: JS常见调试错误
 slug: jschang-jian-diao-shi-cuo-wu
-date_published: 2016-02-19T02:55:55.000Z
+date: 2016-02-19T02:55:55.000Z
 date_updated: 2017-01-17T07:06:31.000Z
 ---
 

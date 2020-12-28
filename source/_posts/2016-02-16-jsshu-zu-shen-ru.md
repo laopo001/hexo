@@ -1,7 +1,7 @@
 ---
 title: js数组笔记
 slug: jsshu-zu-shen-ru
-date_published: 2016-02-16T02:05:07.000Z
+date: 2016-02-16T02:05:07.000Z
 date_updated: 2017-01-17T07:15:52.000Z
 ---
 

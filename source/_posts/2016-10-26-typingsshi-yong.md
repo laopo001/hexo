@@ -1,7 +1,7 @@
 ---
 title: typings使用
 slug: typingsshi-yong
-date_published: 2016-10-26T08:02:58.000Z
+date: 2016-10-26T08:02:58.000Z
 date_updated: 2016-10-26T08:02:58.000Z
 ---
 

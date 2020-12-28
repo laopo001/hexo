@@ -1,7 +1,7 @@
 ---
 title: Angularx服务器渲染
 slug: angularxfu-wu-qi-xuan-ran
-date_published: 2017-12-11T06:37:13.000Z
+date: 2017-12-11T06:37:13.000Z
 date_updated: 2018-02-09T07:14:37.000Z
 ---
 

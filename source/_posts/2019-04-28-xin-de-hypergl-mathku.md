@@ -1,7 +1,7 @@
 ---
 title: hypergl新的开始——wasm-math库
 slug: xin-de-hypergl-mathku
-date_published: 2019-04-28T05:50:42.000Z
+date: 2019-04-28T05:50:42.000Z
 date_updated: 2019-04-29T09:40:57.000Z
 ---
 

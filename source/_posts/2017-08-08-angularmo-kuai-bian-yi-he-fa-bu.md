@@ -1,7 +1,7 @@
 ---
 title: Angular模块编译和发布
 slug: angularmo-kuai-bian-yi-he-fa-bu
-date_published: 2017-08-08T11:22:03.000Z
+date: 2017-08-08T11:22:03.000Z
 date_updated: 2017-08-10T05:32:32.000Z
 ---
 

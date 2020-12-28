@@ -1,7 +1,7 @@
 ---
 title: 向量--点积和叉积
 slug: xiang-liang-dian-ji-he-cha-ji
-date_published: 2015-12-16T08:09:00.000Z
+date: 2015-12-16T08:09:00.000Z
 date_updated: 2016-12-22T02:43:51.000Z
 ---
 

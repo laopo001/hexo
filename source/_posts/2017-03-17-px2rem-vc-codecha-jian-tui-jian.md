@@ -1,7 +1,7 @@
 ---
 title: px2rem-vc code插件推荐
 slug: px2rem-vc-codecha-jian-tui-jian
-date_published: 2017-03-17T09:19:00.000Z
+date: 2017-03-17T09:19:00.000Z
 date_updated: 2017-03-20T08:26:55.000Z
 ---
 

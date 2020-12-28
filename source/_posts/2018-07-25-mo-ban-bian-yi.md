@@ -1,7 +1,7 @@
 ---
 title: 模板编译
 slug: mo-ban-bian-yi
-date_published: 2018-07-25T12:21:08.000Z
+date: 2018-07-25T12:21:08.000Z
 date_updated: 2018-07-25T12:21:30.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: webgl学习2——鼠标画点
 slug: webglxue-xi-2-shu-biao-hua-dian
-date_published: 2018-05-17T12:32:44.000Z
+date: 2018-05-17T12:32:44.000Z
 date_updated: 2018-05-21T11:05:43.000Z
 tags: webgl
 ---

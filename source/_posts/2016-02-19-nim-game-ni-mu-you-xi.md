@@ -1,7 +1,7 @@
 ---
 title: Nim Game(尼姆游戏)--LeetCode
 slug: nim-game-ni-mu-you-xi
-date_published: 2016-02-19T03:59:07.000Z
+date: 2016-02-19T03:59:07.000Z
 date_updated: 2017-01-17T07:05:52.000Z
 tags: LeetCode
 ---

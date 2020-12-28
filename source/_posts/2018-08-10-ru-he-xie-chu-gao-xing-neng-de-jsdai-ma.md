@@ -1,7 +1,7 @@
 ---
 title: 如何写出高性能的js代码一
 slug: ru-he-xie-chu-gao-xing-neng-de-jsdai-ma
-date_published: 2018-08-10T09:24:28.000Z
+date: 2018-08-10T09:24:28.000Z
 date_updated: 2018-08-10T09:31:53.000Z
 ---
 

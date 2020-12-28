@@ -1,7 +1,7 @@
 ---
 title: Rxjs学习
 slug: rxjsxue-xi
-date_published: 2017-05-08T14:28:58.000Z
+date: 2017-05-08T14:28:58.000Z
 date_updated: 2017-05-08T14:28:58.000Z
 ---
 

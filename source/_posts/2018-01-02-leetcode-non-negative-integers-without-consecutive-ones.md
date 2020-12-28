@@ -1,7 +1,7 @@
 ---
 title: leetcode--Non-negative Integers without Consecutive Ones
 slug: leetcode-non-negative-integers-without-consecutive-ones
-date_published: 2018-01-02T09:10:31.000Z
+date: 2018-01-02T09:10:31.000Z
 date_updated: 2018-01-02T09:18:57.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: js获取安全的随机数
 slug: jshuo-qu-sui-ji-shu-di-er-chong-fang-fa
-date_published: 2018-06-15T03:00:20.000Z
+date: 2018-06-15T03:00:20.000Z
 date_updated: 2018-06-15T03:01:29.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: webpack正确使用wasm
 slug: wasm-webpackshi-yong
-date_published: 2018-10-03T03:19:41.000Z
+date: 2018-10-03T03:19:41.000Z
 date_updated: 2018-10-03T03:19:41.000Z
 ---
 

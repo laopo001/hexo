@@ -1,7 +1,7 @@
 ---
 title: 搭建私有npm仓库
 slug: da-jian-si-you-npmcang-ku
-date_published: 2017-09-27T07:57:56.000Z
+date: 2017-09-27T07:57:56.000Z
 date_updated: 2017-10-24T02:36:27.000Z
 ---
 

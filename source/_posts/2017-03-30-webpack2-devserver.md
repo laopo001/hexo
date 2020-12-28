@@ -1,7 +1,7 @@
 ---
 title: webpack2--devServer
 slug: webpack2-devserver
-date_published: 2017-03-30T09:13:30.000Z
+date: 2017-03-30T09:13:30.000Z
 date_updated: 2017-03-30T09:13:30.000Z
 ---
 

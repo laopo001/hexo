@@ -1,7 +1,7 @@
 ---
 title: Wildcard Matching--LeetCode
 slug: wildcard-matching-leetcode
-date_published: 2016-03-15T14:22:02.000Z
+date: 2016-03-15T14:22:02.000Z
 date_updated: 2017-04-06T01:52:09.000Z
 tags: LeetCode
 ---

@@ -1,7 +1,7 @@
 ---
 title: leetcode --- String to Integer (atoi)
 slug: leetcode-string-to-integer-atoi
-date_published: 2018-01-08T08:43:19.000Z
+date: 2018-01-08T08:43:19.000Z
 date_updated: 2018-01-08T08:43:30.000Z
 ---
 

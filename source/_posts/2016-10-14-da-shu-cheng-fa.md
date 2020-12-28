@@ -1,7 +1,7 @@
 ---
 title: 大数乘法
 slug: da-shu-cheng-fa
-date_published: 2016-10-14T09:02:37.000Z
+date: 2016-10-14T09:02:37.000Z
 date_updated: 2016-10-14T09:05:49.000Z
 ---
 

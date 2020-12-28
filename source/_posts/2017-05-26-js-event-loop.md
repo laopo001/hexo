@@ -1,7 +1,7 @@
 ---
 title: js---Event Loop
 slug: js-event-loop
-date_published: 2017-05-26T09:06:42.000Z
+date: 2017-05-26T09:06:42.000Z
 date_updated: 2017-05-26T09:06:42.000Z
 ---
 

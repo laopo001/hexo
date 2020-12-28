@@ -1,7 +1,7 @@
 ---
 title: console--输出图片，样式
 slug: console-shu-chu-tu-pian-yang-shi
-date_published: 2016-02-18T14:41:00.000Z
+date: 2016-02-18T14:41:00.000Z
 date_updated: 2017-01-17T07:07:59.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 二进制乘法，除法
 slug: er-jin-zhi-cheng-fa-chu-fa
-date_published: 2016-10-14T08:56:44.000Z
+date: 2016-10-14T08:56:44.000Z
 date_updated: 2017-04-04T16:51:40.000Z
 ---
 

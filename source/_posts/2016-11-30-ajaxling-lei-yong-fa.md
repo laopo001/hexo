@@ -1,7 +1,7 @@
 ---
 title: ajax另类用法
 slug: ajaxling-lei-yong-fa
-date_published: 2016-11-30T04:20:03.000Z
+date: 2016-11-30T04:20:03.000Z
 date_updated: 2016-11-30T04:20:03.000Z
 ---
 

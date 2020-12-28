@@ -1,7 +1,7 @@
 ---
 title: 从零写一个webgl游戏引擎（二）
 slug: cong-ling-xie-yi-ge-webglyou-xi-yin-qing-2
-date_published: 2018-09-12T17:40:47.000Z
+date: 2018-09-12T17:40:47.000Z
 date_updated: 2018-09-12T17:40:47.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: nginx配置判断UA跳转pc或mobile
 slug: nginxpei-zhi-pan-duan-uatiao-zhuan-pchuo-mobile
-date_published: 2017-12-11T06:37:44.000Z
+date: 2017-12-11T06:37:44.000Z
 date_updated: 2017-12-11T06:37:44.000Z
 ---
 

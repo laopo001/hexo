@@ -1,7 +1,7 @@
 ---
 title: webgl学习3——画一个三角形
 slug: webglxue-xi-xuan-zhuan-suo-fang-ping-yi
-date_published: 2018-05-20T05:25:14.000Z
+date: 2018-05-20T05:25:14.000Z
 date_updated: 2018-05-21T11:07:17.000Z
 ---
 

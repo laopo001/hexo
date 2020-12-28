@@ -1,7 +1,7 @@
 ---
 title: 八皇后（javascript）
 slug: ba-huang-hou-wen-ti-javascript
-date_published: 2016-01-25T15:31:21.000Z
+date: 2016-01-25T15:31:21.000Z
 date_updated: 2017-01-17T07:21:43.000Z
 tags: 算法
 ---

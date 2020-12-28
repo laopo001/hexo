@@ -1,7 +1,7 @@
 ---
 title: Add Digits--LeetCode
 slug: add-digits
-date_published: 2016-02-19T06:48:04.000Z
+date: 2016-02-19T06:48:04.000Z
 date_updated: 2017-01-17T07:04:12.000Z
 tags: LeetCode
 ---

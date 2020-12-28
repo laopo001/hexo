@@ -1,7 +1,7 @@
 ---
 title: html5拖动文件上传
 slug: fromde-wen-jian-shang-chuan
-date_published: 2016-05-26T07:59:00.000Z
+date: 2016-05-26T07:59:00.000Z
 date_updated: 2017-01-17T06:17:18.000Z
 ---
 

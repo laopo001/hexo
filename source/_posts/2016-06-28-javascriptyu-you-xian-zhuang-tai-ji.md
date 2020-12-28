@@ -1,7 +1,7 @@
 ---
 title: JavaScript与有限状态机
 slug: javascriptyu-you-xian-zhuang-tai-ji
-date_published: 2016-06-28T09:24:03.000Z
+date: 2016-06-28T09:24:03.000Z
 date_updated: 2017-01-17T06:23:22.000Z
 ---
 

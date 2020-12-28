@@ -1,7 +1,7 @@
 ---
 title: angular变化检测实现原理
 slug: angularbian-hua-jian-ce-shi-xian-yuan-li
-date_published: 2017-08-04T09:11:18.000Z
+date: 2017-08-04T09:11:18.000Z
 date_updated: 2017-08-04T09:11:18.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: js异常捕获
 slug: jsyi-chang-bu-huo
-date_published: 2017-08-02T11:20:29.000Z
+date: 2017-08-02T11:20:29.000Z
 date_updated: 2017-08-02T11:20:29.000Z
 ---
 

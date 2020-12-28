@@ -1,7 +1,7 @@
 ---
 title: Unique Binary Search Trees II--leetcode
 slug: unique-binary-search-trees-ii-leetcode-2
-date_published: 2017-03-13T08:58:47.000Z
+date: 2017-03-13T08:58:47.000Z
 date_updated: 2017-03-13T10:07:30.000Z
 tags: 算法
 ---

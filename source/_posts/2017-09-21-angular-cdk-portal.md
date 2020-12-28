@@ -1,7 +1,7 @@
 ---
 title: angular/cdk/portal实现
 slug: angular-cdk-portal
-date_published: 2017-09-21T11:43:03.000Z
+date: 2017-09-21T11:43:03.000Z
 date_updated: 2017-09-21T11:43:03.000Z
 ---
 

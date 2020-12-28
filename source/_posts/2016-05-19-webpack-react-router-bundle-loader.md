@@ -1,7 +1,7 @@
 ---
 title: webpack、react-router、react-router-loader
 slug: webpack-react-router-bundle-loader
-date_published: 2016-05-19T09:23:02.000Z
+date: 2016-05-19T09:23:02.000Z
 date_updated: 2017-01-17T06:33:06.000Z
 ---
 

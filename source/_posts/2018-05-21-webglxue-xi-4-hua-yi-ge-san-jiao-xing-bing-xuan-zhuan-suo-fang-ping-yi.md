@@ -1,7 +1,7 @@
 ---
 title: webgl学习4——画一个三角形并旋转缩放平移
 slug: webglxue-xi-4-hua-yi-ge-san-jiao-xing-bing-xuan-zhuan-suo-fang-ping-yi
-date_published: 2018-05-21T10:54:04.000Z
+date: 2018-05-21T10:54:04.000Z
 date_updated: 2018-05-21T11:07:32.000Z
 ---
 

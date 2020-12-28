@@ -1,7 +1,7 @@
 ---
 title: Bootstrap的滚动条
 slug: bootstrapde-gun-dong-tiao
-date_published: 2016-04-18T13:42:14.000Z
+date: 2016-04-18T13:42:14.000Z
 date_updated: 2017-01-17T06:34:43.000Z
 ---
 

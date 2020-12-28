@@ -1,7 +1,7 @@
 ---
 title: nginx反向代理，获取客户端ip地址
 slug: nginxfan-xiang-dai-li-huo-qu-ke-hu-duan-ipdi-zhi
-date_published: 2017-03-09T03:31:07.000Z
+date: 2017-03-09T03:31:07.000Z
 date_updated: 2017-03-09T03:31:09.000Z
 ---
 

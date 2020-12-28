@@ -1,7 +1,7 @@
 ---
 title: 齐次坐标理解
 slug: qi-ci-zuo-biao-xue-xi
-date_published: 2018-05-07T05:22:53.000Z
+date: 2018-05-07T05:22:53.000Z
 date_updated: 2018-05-07T05:22:53.000Z
 ---
 

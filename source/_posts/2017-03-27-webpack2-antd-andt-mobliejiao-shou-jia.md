@@ -1,7 +1,7 @@
 ---
 title: webpack2+antd+andt moblie脚手架
 slug: webpack2-antd-andt-mobliejiao-shou-jia
-date_published: 2017-03-27T10:09:23.000Z
+date: 2017-03-27T10:09:23.000Z
 date_updated: 2017-03-27T11:03:03.000Z
 ---
 

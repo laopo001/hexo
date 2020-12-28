@@ -1,7 +1,7 @@
 ---
 title: leetcode --- 3Sum Closest
 slug: leetcode-3sum-closest
-date_published: 2018-01-21T07:24:52.000Z
+date: 2018-01-21T07:24:52.000Z
 date_updated: 2018-01-21T07:24:54.000Z
 ---
 

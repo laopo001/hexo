@@ -1,7 +1,7 @@
 ---
 title: JS笔记2
 slug: jsde-shi-yong
-date_published: 2016-07-24T16:17:27.000Z
+date: 2016-07-24T16:17:27.000Z
 date_updated: 2017-02-21T07:35:38.000Z
 ---
 

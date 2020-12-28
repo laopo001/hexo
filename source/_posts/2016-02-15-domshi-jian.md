@@ -1,7 +1,7 @@
 ---
 title: dom事件
 slug: domshi-jian
-date_published: 2016-02-15T09:25:00.000Z
+date: 2016-02-15T09:25:00.000Z
 date_updated: 2017-01-17T07:19:47.000Z
 tags: html
 ---

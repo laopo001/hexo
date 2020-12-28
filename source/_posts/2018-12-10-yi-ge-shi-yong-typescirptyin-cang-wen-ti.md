@@ -1,7 +1,7 @@
 ---
 title: 一个使用js/typescirpt隐藏问题。
 slug: yi-ge-shi-yong-typescirptyin-cang-wen-ti
-date_published: 2018-12-10T09:50:57.000Z
+date: 2018-12-10T09:50:57.000Z
 date_updated: 2019-03-26T09:54:54.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 再谈Angular变化检测
 slug: zai-tan-angularbian-hua-jian-ce
-date_published: 2017-08-17T07:37:50.000Z
+date: 2017-08-17T07:37:50.000Z
 date_updated: 2018-02-09T07:16:28.000Z
 ---
 

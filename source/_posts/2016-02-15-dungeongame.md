@@ -1,7 +1,7 @@
 ---
 title: DungeonGame一道动态规划的题--LeetCode
 slug: dungeongame
-date_published: 2016-02-15T09:32:02.000Z
+date: 2016-02-15T09:32:02.000Z
 date_updated: 2017-01-17T07:18:53.000Z
 tags: LeetCode
 ---

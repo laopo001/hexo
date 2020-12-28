@@ -1,7 +1,7 @@
 ---
 title: nodejs多进程
 slug: nodejsduo-jin-cheng
-date_published: 2016-08-23T08:57:02.000Z
+date: 2016-08-23T08:57:02.000Z
 date_updated: 2016-08-23T08:57:02.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Invert Binary Tree--leetcode
 slug: invert-binary-tree-leetcode
-date_published: 2017-03-14T02:20:41.000Z
+date: 2017-03-14T02:20:41.000Z
 date_updated: 2017-03-14T02:20:41.000Z
 tags: 算法
 ---

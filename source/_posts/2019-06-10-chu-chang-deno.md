@@ -1,7 +1,7 @@
 ---
 title: deno wsl下从源码安装
 slug: chu-chang-deno
-date_published: 2019-06-10T09:55:19.000Z
+date: 2019-06-10T09:55:19.000Z
 date_updated: 2019-06-10T09:58:00.000Z
 ---
 

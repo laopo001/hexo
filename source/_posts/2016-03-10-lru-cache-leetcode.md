@@ -1,7 +1,7 @@
 ---
 title: LRU Cache--LeetCode
 slug: lru-cache-leetcode
-date_published: 2016-03-10T06:38:55.000Z
+date: 2016-03-10T06:38:55.000Z
 date_updated: 2017-01-17T06:55:46.000Z
 tags: LeetCode
 ---

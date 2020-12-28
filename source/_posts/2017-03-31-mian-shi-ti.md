@@ -1,7 +1,7 @@
 ---
 title: 面试准备+复习
 slug: mian-shi-ti
-date_published: 2017-03-31T00:25:47.000Z
+date: 2017-03-31T00:25:47.000Z
 date_updated: 2018-09-12T07:42:42.000Z
 ---
 

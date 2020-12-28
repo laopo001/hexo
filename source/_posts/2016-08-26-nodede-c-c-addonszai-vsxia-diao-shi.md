@@ -1,7 +1,7 @@
 ---
 title: Node的C/C++ Addons在VS下调试
 slug: nodede-c-c-addonszai-vsxia-diao-shi
-date_published: 2016-08-26T10:38:27.000Z
+date: 2016-08-26T10:38:27.000Z
 date_updated: 2016-09-02T10:38:20.000Z
 ---
 

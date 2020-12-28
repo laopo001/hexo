@@ -1,7 +1,7 @@
 ---
 title: Generator妙用
 slug: generatormiao-yong
-date_published: 2016-11-18T10:40:13.000Z
+date: 2016-11-18T10:40:13.000Z
 date_updated: 2016-12-06T01:51:19.000Z
 ---
 

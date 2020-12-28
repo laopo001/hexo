@@ -1,7 +1,7 @@
 ---
 title: codePointAt和fromCodePoint
 slug: codepointathe-fromcodepoint
-date_published: 2018-08-04T16:22:19.000Z
+date: 2018-08-04T16:22:19.000Z
 date_updated: 2018-08-04T17:19:33.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: white-space、word-wrap和word-break区别
 slug: white-space-word-wraphe-word-breakqu-bie
-date_published: 2016-08-29T03:34:25.000Z
+date: 2016-08-29T03:34:25.000Z
 date_updated: 2016-09-05T03:26:33.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: react学习
 slug: reactxue-xi
-date_published: 2018-03-12T03:31:34.000Z
+date: 2018-03-12T03:31:34.000Z
 date_updated: 2018-03-12T03:31:34.000Z
 ---
 

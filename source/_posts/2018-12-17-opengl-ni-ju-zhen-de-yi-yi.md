@@ -1,7 +1,7 @@
 ---
 title: opengl 逆矩阵的意义
 slug: opengl-ni-ju-zhen-de-yi-yi
-date_published: 2018-12-17T11:22:08.000Z
+date: 2018-12-17T11:22:08.000Z
 date_updated: 2018-12-17T11:22:08.000Z
 ---
 

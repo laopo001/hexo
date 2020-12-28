@@ -1,7 +1,7 @@
 ---
 title: SyntaxHighlighter测试 ghost
 slug: syntaxhighlighter
-date_published: 2016-09-27T10:40:31.000Z
+date: 2016-09-27T10:40:31.000Z
 date_updated: 2016-10-17T02:56:55.000Z
 ---
 

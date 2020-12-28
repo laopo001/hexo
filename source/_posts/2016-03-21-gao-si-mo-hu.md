@@ -1,7 +1,7 @@
 ---
 title: 高斯模糊
 slug: gao-si-mo-hu
-date_published: 2016-03-21T11:15:09.000Z
+date: 2016-03-21T11:15:09.000Z
 date_updated: 2017-01-17T09:39:25.000Z
 ---
 

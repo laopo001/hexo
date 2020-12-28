@@ -1,7 +1,7 @@
 ---
 title: 字符串匹配
 slug: zi-fu-chuan-p
-date_published: 2016-01-22T02:59:52.000Z
+date: 2016-01-22T02:59:52.000Z
 date_updated: 2017-01-17T07:24:46.000Z
 tags: 算法
 ---

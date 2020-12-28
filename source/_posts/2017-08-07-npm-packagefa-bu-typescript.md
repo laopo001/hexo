@@ -1,7 +1,7 @@
 ---
 title: npm package发布(TypeScript)
 slug: npm-packagefa-bu-typescript
-date_published: 2017-08-07T09:45:09.000Z
+date: 2017-08-07T09:45:09.000Z
 date_updated: 2017-08-07T09:45:09.000Z
 ---
 

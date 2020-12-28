@@ -1,7 +1,7 @@
 ---
 title: Word Ladder II--leetcode（javascript）
 slug: word-ladder-ii
-date_published: 2016-02-27T09:35:21.000Z
+date: 2016-02-27T09:35:21.000Z
 date_updated: 2017-01-17T06:59:06.000Z
 tags: 算法, LeetCode
 ---

@@ -1,7 +1,7 @@
 ---
 title: WebAssembly未来
 slug: hyperglde-wei-lai
-date_published: 2019-04-26T13:31:10.000Z
+date: 2019-04-26T13:31:10.000Z
 date_updated: 2019-04-26T13:39:51.000Z
 ---
 

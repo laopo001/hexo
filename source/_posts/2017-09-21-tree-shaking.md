@@ -1,7 +1,7 @@
 ---
 title: Tree Shaking
 slug: tree-shaking
-date_published: 2017-09-21T03:26:12.000Z
+date: 2017-09-21T03:26:12.000Z
 date_updated: 2017-09-21T03:26:12.000Z
 ---
 

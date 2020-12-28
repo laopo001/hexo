@@ -1,7 +1,7 @@
 ---
 title: 关于P,NP,NPC和NP-hard的通俗解释
 slug: guan-yu-p-np-npche-np-hardde-tong-su-jie-shi
-date_published: 2016-02-18T06:35:35.000Z
+date: 2016-02-18T06:35:35.000Z
 date_updated: 2017-01-17T07:09:34.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Diameter of Binary Tree--leetcode
 slug: diameter-of-binary-tree-leetcode
-date_published: 2017-03-20T10:37:00.000Z
+date: 2017-03-20T10:37:00.000Z
 date_updated: 2017-03-27T10:58:27.000Z
 ---
 

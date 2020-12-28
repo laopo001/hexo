@@ -1,7 +1,7 @@
 ---
 title: Add Binary--leetcode
 slug: add-binary-leetcode
-date_published: 2017-02-23T08:42:08.000Z
+date: 2017-02-23T08:42:08.000Z
 date_updated: 2017-03-14T08:37:46.000Z
 tags: 算法
 ---

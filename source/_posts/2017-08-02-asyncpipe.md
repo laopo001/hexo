@@ -1,7 +1,7 @@
 ---
 title: AsyncPipe源码分析
 slug: asyncpipe
-date_published: 2017-08-02T11:13:00.000Z
+date: 2017-08-02T11:13:00.000Z
 date_updated: 2017-08-02T11:15:56.000Z
 ---
 

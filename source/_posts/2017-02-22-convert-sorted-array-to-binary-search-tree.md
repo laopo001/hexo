@@ -1,7 +1,7 @@
 ---
 title: Convert Sorted Array to Binary Search Tree
 slug: convert-sorted-array-to-binary-search-tree
-date_published: 2017-02-22T10:14:16.000Z
+date: 2017-02-22T10:14:16.000Z
 date_updated: 2017-02-22T10:15:36.000Z
 tags: 算法
 ---

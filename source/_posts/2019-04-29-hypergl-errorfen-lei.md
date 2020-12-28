@@ -1,7 +1,7 @@
 ---
 title: hypergl error分类
 slug: hypergl-errorfen-lei
-date_published: 2019-04-29T05:47:44.000Z
+date: 2019-04-29T05:47:44.000Z
 date_updated: 2019-04-29T05:47:44.000Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ubuntu下iptables开启端口
 slug: ubuntuxia-iptableskai-qi-duan-kou
-date_published: 2017-01-17T09:23:00.000Z
+date: 2017-01-17T09:23:00.000Z
 date_updated: 2017-02-20T09:44:13.000Z
 ---
 

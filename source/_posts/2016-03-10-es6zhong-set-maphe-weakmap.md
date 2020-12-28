@@ -1,7 +1,7 @@
 ---
 title: ES6中Set、Map和WeakSet、WeakMap
 slug: es6zhong-set-maphe-weakmap
-date_published: 2016-03-10T09:10:17.000Z
+date: 2016-03-10T09:10:17.000Z
 date_updated: 2017-01-17T06:55:12.000Z
 tags: javascript
 ---

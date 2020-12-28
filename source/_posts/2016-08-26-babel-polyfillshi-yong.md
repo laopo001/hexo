@@ -1,7 +1,7 @@
 ---
 title: babel-polyfill使用
 slug: babel-polyfillshi-yong
-date_published: 2016-08-26T07:36:19.000Z
+date: 2016-08-26T07:36:19.000Z
 date_updated: 2016-08-26T07:36:19.000Z
 ---
 

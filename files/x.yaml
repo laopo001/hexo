@@ -2485,3 +2485,24 @@ rules:
   - GEOIP,CN,DIRECT
 
   - MATCH,⚓️其他流量
+
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:53
+  enhanced-mode: redir-host
+  # fake-ip-range: 198.18.0.1/16
+  use-hosts: true
+  nameserver:
+    - 223.5.5.5
+    - 180.76.76.76
+    - 119.29.29.29
+  fallback:
+    - tls://1.1.1.1
+    - https://cloudflare-dns.com/dns-query
+    - 2.dnscrypt-cert.opendns.com
+    - tls://dns.google
+  # fallback-filter:
+  #   geoip: true
+  #   ipcidr:
+  #     - 240.0.0.0/4

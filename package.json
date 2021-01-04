@@ -18,6 +18,6 @@
   },
   "scripts": {
     "dev": "cp -r source public/ && hexo server -p $PORT",
-    "build": "hexo generate && cp -r source public/"
+    "build": "hexo generate && cp -r source public/ && cp -r files public/"
   }
 }

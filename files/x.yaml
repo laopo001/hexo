@@ -1,18 +1,13 @@
-#---------------------------------------------------#
-## 上次更新于：2021-01-04 05:13:11
-#---------------------------------------------------#
-
 port: 7890
-socks-port: 7891
+mixed-port: 7891
 redir-port: 7892
 allow-lan: false
 mode: rule
 log-level: silent
-external-controller: '0.0.0.0:9090'
+external-controller: 127.0.0.1:49790
 secret: ''
 proxies:
-  -
-    name: '俄罗斯 节点1(登录xindongli129.xyz)'
+  - name: '俄罗斯 节点1(登录xindongli129.xyz)'
     type: vmess
     server: 113.207.102.41
     port: 80
@@ -24,8 +19,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: xvru1.weisuvip.com
-  -
-    name: '加拿大 VIP1节点1'
+  - name: '加拿大 VIP1节点1'
     type: vmess
     server: can.125cdn.xyz
     port: 11186
@@ -37,8 +31,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: can.125cdn.xyz
-  -
-    name: '台湾 VIP1节点A1'
+  - name: '台湾 VIP1节点A1'
     type: vmess
     server: tw.122cnd.xyz
     port: 11086
@@ -50,8 +43,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: tw.122cnd.xyz
-  -
-    name: '新加坡 V2ray节点3'
+  - name: '新加坡 V2ray节点3'
     type: vmess
     server: v1sg3.125cdn.xyz
     port: 10086
@@ -63,8 +55,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: v1sg3.125cdn.xyz
-  -
-    name: '新加坡 VIP1节点3'
+  - name: '新加坡 VIP1节点3'
     type: vmess
     server: sg3.122cnd.xyz
     port: 10086
@@ -76,8 +67,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: sg3.122cnd.xyz
-  -
-    name: '新加坡 VIP1节点4'
+  - name: '新加坡 VIP1节点4'
     type: vmess
     server: sg4.125cdn.xyz
     port: 10086
@@ -89,8 +79,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: sg4.125cdn.xyz
-  -
-    name: '新加坡 VIP1节点5'
+  - name: '新加坡 VIP1节点5'
     type: vmess
     server: sg5.125cdn.xyz
     port: 10086
@@ -102,8 +91,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: sg5.125cdn.xyz
-  -
-    name: '新加坡 VIP1节点B2'
+  - name: '新加坡 VIP1节点B2'
     type: vmess
     server: 119.147.134.31
     port: 80
@@ -115,8 +103,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vsg2.weisuvip.com
-  -
-    name: '新加坡 VIP1节点B3'
+  - name: '新加坡 VIP1节点B3'
     type: vmess
     server: 58.211.137.31
     port: 80
@@ -128,8 +115,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vsg3.weisuvip.com
-  -
-    name: '新加坡 VIP2节点1'
+  - name: '新加坡 VIP2节点1'
     type: vmess
     server: vip2sg1.122cnd.xyz
     port: 10086
@@ -141,8 +127,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip2sg1.122cnd.xyz
-  -
-    name: '新加坡 VIP3节点1'
+  - name: '新加坡 VIP3节点1'
     type: vmess
     server: vsg4.125cdn.xyz
     port: 10086
@@ -154,8 +139,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vsg4.125cdn.xyz
-  -
-    name: '日本 01'
+  - name: '日本 01'
     type: vmess
     server: jp01.123cc.xyz
     port: 10086
@@ -167,8 +151,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: jp01.123cc.xyz
-  -
-    name: '日本 VIP1节点1'
+  - name: '日本 VIP1节点1'
     type: vmess
     server: 157.255.26.31
     port: 80
@@ -180,8 +163,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: xjp1.weisuvip.com
-  -
-    name: '日本 VIP1节点2'
+  - name: '日本 VIP1节点2'
     type: vmess
     server: 122.190.3.31
     port: 80
@@ -193,8 +175,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: xjp2.weisuvip.com
-  -
-    name: '日本 VIP3节点4'
+  - name: '日本 VIP3节点4'
     type: vmess
     server: 113.207.102.32
     port: 80
@@ -206,8 +187,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: xjp4.weisuvip.com
-  -
-    name: '日本 VIP3节点A1（新·软银2500M）'
+  - name: '日本 VIP3节点A1（新·软银2500M）'
     type: vmess
     server: vip3jpa1.125cdn.xyz
     port: 10086
@@ -219,8 +199,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip3jpa1.125cdn.xyz
-  -
-    name: '美国  Hulu/Netflix/Hbo专线L1'
+  - name: '美国  Hulu/Netflix/Hbo专线L1'
     type: vmess
     server: usl1.123cc.xyz
     port: 10086
@@ -232,8 +211,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usl1.123cc.xyz
-  -
-    name: '美国  Hulu/Netflix/Hbo专线L3'
+  - name: '美国  Hulu/Netflix/Hbo专线L3'
     type: vmess
     server: usl3.123cc.xyz
     port: 16086
@@ -245,8 +223,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usl3.123cc.xyz
-  -
-    name: '美国 VIP1节点A1'
+  - name: '美国 VIP1节点A1'
     type: vmess
     server: usa1.122cnd.xyz
     port: 10086
@@ -258,8 +235,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usa1.122cnd.xyz
-  -
-    name: '美国 VIP1节点A2'
+  - name: '美国 VIP1节点A2'
     type: vmess
     server: usa2.122cnd.xyz
     port: 10086
@@ -271,8 +247,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usa2.122cnd.xyz
-  -
-    name: '美国 VIP1节点A3'
+  - name: '美国 VIP1节点A3'
     type: vmess
     server: usa3.122cnd.xyz
     port: 13088
@@ -284,8 +259,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usa3.122cnd.xyz
-  -
-    name: '美国 VIP1节点A4'
+  - name: '美国 VIP1节点A4'
     type: vmess
     server: usa4.122cnd.xyz
     port: 10086
@@ -297,8 +271,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usa4.122cnd.xyz
-  -
-    name: '美国 VIP1节点A5（G）'
+  - name: '美国 VIP1节点A5（G）'
     type: vmess
     server: usvip1a5.122cnd.xyz
     port: 18086
@@ -310,8 +283,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip1a5.122cnd.xyz
-  -
-    name: '美国 VIP1节点B1'
+  - name: '美国 VIP1节点B1'
     type: vmess
     server: usb1.122cnd.xyz
     port: 13086
@@ -323,8 +295,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usb1.122cnd.xyz
-  -
-    name: '美国 VIP1节点B2'
+  - name: '美国 VIP1节点B2'
     type: vmess
     server: usb2.122cnd.xyz
     port: 10086
@@ -336,8 +307,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usb2.122cnd.xyz
-  -
-    name: '美国 VIP1节点B3'
+  - name: '美国 VIP1节点B3'
     type: vmess
     server: usb3.122cnd.xyz
     port: 10086
@@ -349,8 +319,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usb3.122cnd.xyz
-  -
-    name: '美国 VIP1节点B4'
+  - name: '美国 VIP1节点B4'
     type: vmess
     server: usb4.122cnd.xyz
     port: 10086
@@ -362,8 +331,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usb4.122cnd.xyz
-  -
-    name: '美国 VIP1节点B5'
+  - name: '美国 VIP1节点B5'
     type: vmess
     server: usb5.122cnd.xyz
     port: 10086
@@ -375,8 +343,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usb5.122cnd.xyz
-  -
-    name: '美国 VIP1节点C1'
+  - name: '美国 VIP1节点C1'
     type: vmess
     server: usc1.122cnd.xyz
     port: 10086
@@ -388,8 +355,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usc1.122cnd.xyz
-  -
-    name: '美国 VIP1节点C2'
+  - name: '美国 VIP1节点C2'
     type: vmess
     server: usc2.122cnd.xyz
     port: 10086
@@ -401,8 +367,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usc2.122cnd.xyz
-  -
-    name: '美国 VIP1节点C3'
+  - name: '美国 VIP1节点C3'
     type: vmess
     server: usc3.122cnd.xyz
     port: 10086
@@ -414,8 +379,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usc3.122cnd.xyz
-  -
-    name: '美国 VIP1节点C4'
+  - name: '美国 VIP1节点C4'
     type: vmess
     server: usc4.122cnd.xyz
     port: 10086
@@ -427,8 +391,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usc4.122cnd.xyz
-  -
-    name: '美国 VIP1节点C5(注册登录xindongli129.xyz)'
+  - name: '美国 VIP1节点C5(注册登录xindongli129.xyz)'
     type: vmess
     server: usc5.122cnd.xyz
     port: 10086
@@ -440,8 +403,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usc5.122cnd.xyz
-  -
-    name: '美国 VIP1节点C6'
+  - name: '美国 VIP1节点C6'
     type: vmess
     server: usc6.122cnd.xyz
     port: 13086
@@ -453,8 +415,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usc6.122cnd.xyz
-  -
-    name: '美国 VIP2节点A1'
+  - name: '美国 VIP2节点A1'
     type: vmess
     server: usvip2a1.122cnd.xyz
     port: 20086
@@ -466,8 +427,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip2a1.122cnd.xyz
-  -
-    name: '美国 VIP2节点A2'
+  - name: '美国 VIP2节点A2'
     type: vmess
     server: usvip2a2.122cnd.xyz
     port: 16086
@@ -479,8 +439,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip2a2.122cnd.xyz
-  -
-    name: '美国 VIP2节点A3'
+  - name: '美国 VIP2节点A3'
     type: vmess
     server: usvip2a3.122cnd.xyz
     port: 16086
@@ -492,8 +451,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip2a3.122cnd.xyz
-  -
-    name: '美国 VIP3节点A1'
+  - name: '美国 VIP3节点A1'
     type: vmess
     server: usvip3a1.122cnd.xyz
     port: 10086
@@ -505,8 +463,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip3a1.122cnd.xyz
-  -
-    name: '美国 VIP3节点A2'
+  - name: '美国 VIP3节点A2'
     type: vmess
     server: usvip3a2.122cnd.xyz
     port: 11086
@@ -518,8 +475,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip3a2.122cnd.xyz
-  -
-    name: '美国 VIP3节点A3'
+  - name: '美国 VIP3节点A3'
     type: vmess
     server: usvip3a3.122cnd.xyz
     port: 10086
@@ -531,8 +487,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usvip3a3.122cnd.xyz
-  -
-    name: '美国 VIP3节点A5'
+  - name: '美国 VIP3节点A5'
     type: vmess
     server: usa5.122cnd.xyz
     port: 16086
@@ -544,8 +499,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usa5.122cnd.xyz
-  -
-    name: '韩国 V2ray节点1'
+  - name: '韩国 V2ray节点1'
     type: vmess
     server: han.125cdn.xyz
     port: 10086
@@ -557,8 +511,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: han.125cdn.xyz
-  -
-    name: '韩国 V2ray节点2'
+  - name: '韩国 V2ray节点2'
     type: vmess
     server: han2.123cc.xyz
     port: 11086
@@ -570,8 +523,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: han2.123cc.xyz
-  -
-    name: '韩国 V2ray节点3'
+  - name: '韩国 V2ray节点3'
     type: vmess
     server: han3.123cc.xyz
     port: 10086
@@ -583,8 +535,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: han3.123cc.xyz
-  -
-    name: '韩国 V2ray节点4'
+  - name: '韩国 V2ray节点4'
     type: vmess
     server: han4.123cc.xyz
     port: 14086
@@ -596,8 +547,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: han4.123cc.xyz
-  -
-    name: '香港 F1'
+  - name: '香港 F1'
     type: vmess
     server: shkf1.122cnd.xyz
     port: 10086
@@ -609,8 +559,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: shkf1.122cnd.xyz
-  -
-    name: '香港 VIP1节点1'
+  - name: '香港 VIP1节点1'
     type: vmess
     server: nhk1.122cnd.xyz
     port: 10086
@@ -622,8 +571,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: nhk1.122cnd.xyz
-  -
-    name: '香港 VIP1节点2'
+  - name: '香港 VIP1节点2'
     type: vmess
     server: nhk2.125cdn.xyz
     port: 10087
@@ -635,8 +583,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: nhk2.125cdn.xyz
-  -
-    name: '香港 VIP1节点6'
+  - name: '香港 VIP1节点6'
     type: vmess
     server: shk6.125cdn.xyz
     port: 11087
@@ -648,8 +595,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: shk6.125cdn.xyz
-  -
-    name: '香港 VIP1节点7(T)'
+  - name: '香港 VIP1节点7(T)'
     type: vmess
     server: vhk7.122cnd.xyz
     port: 10086
@@ -661,8 +607,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vhk7.122cnd.xyz
-  -
-    name: '香港 VIP1节点8'
+  - name: '香港 VIP1节点8'
     type: vmess
     server: hk8.122cnd.xyz
     port: 10086
@@ -674,8 +619,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk8.122cnd.xyz
-  -
-    name: '香港 VIP1节点9'
+  - name: '香港 VIP1节点9'
     type: vmess
     server: vhk8.122cnd.xyz
     port: 10086
@@ -687,8 +631,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vhk8.122cnd.xyz
-  -
-    name: '香港 VIP1节点A1'
+  - name: '香港 VIP1节点A1'
     type: vmess
     server: hka1.123cc.xyz
     port: 10086
@@ -700,8 +643,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hka1.123cc.xyz
-  -
-    name: '香港 VIP1节点A2'
+  - name: '香港 VIP1节点A2'
     type: vmess
     server: hka2.125cdn.xyz
     port: 16086
@@ -713,8 +655,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hka2.125cdn.xyz
-  -
-    name: '香港 VIP2节点11'
+  - name: '香港 VIP2节点11'
     type: vmess
     server: hk11.125cdn.xyz
     port: 11086
@@ -726,8 +667,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk11.125cdn.xyz
-  -
-    name: '香港 VIP2节点2(T)'
+  - name: '香港 VIP2节点2(T)'
     type: vmess
     server: vip2hk2.125cdn.xyz
     port: 10086
@@ -739,8 +679,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip2hk2.125cdn.xyz
-  -
-    name: '香港 VIP2节点3'
+  - name: '香港 VIP2节点3'
     type: vmess
     server: hk01.125cdn.xyz
     port: 10086
@@ -752,8 +691,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk01.125cdn.xyz
-  -
-    name: '香港 VIP2节点4'
+  - name: '香港 VIP2节点4'
     type: vmess
     server: hk02.125cdn.xyz
     port: 10086
@@ -765,8 +703,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk02.125cdn.xyz
-  -
-    name: '香港 VIP2节点5'
+  - name: '香港 VIP2节点5'
     type: vmess
     server: hk05.123cc.xyz
     port: 10086
@@ -778,8 +715,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk05.123cc.xyz
-  -
-    name: '香港 VIP2节点7'
+  - name: '香港 VIP2节点7'
     type: vmess
     server: shk7.125cdn.xyz
     port: 10086
@@ -791,8 +727,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: shk7.125cdn.xyz
-  -
-    name: '香港 VIP2节点T1'
+  - name: '香港 VIP2节点T1'
     type: vmess
     server: hk21.122cnd.xyz
     port: 10086
@@ -804,8 +739,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk21.122cnd.xyz
-  -
-    name: '香港 VIP2节点T2'
+  - name: '香港 VIP2节点T2'
     type: vmess
     server: hk22.122cnd.xyz
     port: 10086
@@ -817,8 +751,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk22.122cnd.xyz
-  -
-    name: '香港 VIP2节点T3'
+  - name: '香港 VIP2节点T3'
     type: vmess
     server: hk23.125cdn.xyz
     port: 10086
@@ -830,8 +763,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk23.125cdn.xyz
-  -
-    name: '香港 VIP2节点T4'
+  - name: '香港 VIP2节点T4'
     type: vmess
     server: hk24.125cdn.xyz
     port: 10086
@@ -843,8 +775,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk24.125cdn.xyz
-  -
-    name: '香港 VIP3节点10'
+  - name: '香港 VIP3节点10'
     type: vmess
     server: 119.147.134.31
     port: 80
@@ -856,8 +787,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: viphk1.weisuvip.com
-  -
-    name: '香港 VIP3节点2'
+  - name: '香港 VIP3节点2'
     type: vmess
     server: vip3hk2.125cdn.xyz
     port: 10086
@@ -869,8 +799,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip3hk2.125cdn.xyz
-  -
-    name: '香港 VIP3节点3'
+  - name: '香港 VIP3节点3'
     type: vmess
     server: vip3hk3.125cdn.xyz
     port: 10086
@@ -882,8 +811,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip3hk3.125cdn.xyz
-  -
-    name: '香港 VIP3节点9'
+  - name: '香港 VIP3节点9'
     type: vmess
     server: shk9.125cdn.xyz
     port: 11186
@@ -895,8 +823,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: shk9.125cdn.xyz
-  -
-    name: '香港 VIP3节点A1'
+  - name: '香港 VIP3节点A1'
     type: vmess
     server: hkvip3a1.125cdn.xyz
     port: 11086
@@ -908,8 +835,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hkvip3a1.125cdn.xyz
-  -
-    name: '香港 VIP3节点A3'
+  - name: '香港 VIP3节点A3'
     type: vmess
     server: hkvip3a3.123cc.xyz
     port: 18086
@@ -921,8 +847,7 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hkvip3a3.123cc.xyz
-  -
-    name: '香港 VIP3节点A4（新）'
+  - name: '香港 VIP3节点A4（新）'
     type: vmess
     server: vip3jpa1.122cnd.xyz
     port: 16086
@@ -935,8 +860,7 @@ proxies:
     ws-headers:
       Host: vip3jpa1.122cnd.xyz
 proxy-groups:
-  -
-    name: 🔰国外流量
+  - name: 🔰国外流量
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -968,14 +892,11 @@ proxy-groups:
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4（新）'
       - 🚀直接连接
-  -
-    name: url-test # url-test 🔰国外流量
+  - name: url-test # url-test 🔰国外流量
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - '俄罗斯 节点1(登录xindongli129.xyz)'
-      - '加拿大 VIP1节点1'
       - '台湾 VIP1节点A1'
       - '新加坡 V2ray节点3'
       - '新加坡 VIP1节点3'
@@ -985,9 +906,6 @@ proxy-groups:
       - '新加坡 VIP1节点B3'
       - '新加坡 VIP2节点1'
       - '新加坡 VIP3节点1'
-      - '日本 01'
-      - '日本 VIP1节点1'
-      - '日本 VIP1节点2'
       - '日本 VIP3节点4'
       - '日本 VIP3节点A1（新·软银2500M）'
       - '美国  Hulu/Netflix/Hbo专线L1'
@@ -1045,14 +963,12 @@ proxy-groups:
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4（新）'
-  -
-    name: ⚓️其他流量
+  - name: ⚓️其他流量
     type: select
     proxies:
       - 🔰国外流量
       - 🚀直接连接
-  -
-    name: ✈️Telegram
+  - name: ✈️Telegram
     type: select
     proxies:
       - 🔰国外流量
@@ -1127,8 +1043,7 @@ proxy-groups:
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4（新）'
-  -
-    name: 🎬Youtube
+  - name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
@@ -1203,8 +1118,7 @@ proxy-groups:
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4（新）'
-  -
-    name: 🎬Netflix
+  - name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
@@ -1279,8 +1193,7 @@ proxy-groups:
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4（新）'
-  -
-    name: 🎬国外媒体
+  - name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
@@ -1355,18 +1268,15 @@ proxy-groups:
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4（新）'
-  -
-    name: 🍎苹果服务
+  - name: 🍎苹果服务
     type: select
     proxies:
       - 🚀直接连接
       - 🔰国外流量
-  -
-    name: 🚀直接连接
+  - name: 🚀直接连接
     type: select
     proxies:
       - DIRECT
-
 
 rules:
   - DOMAIN-SUFFIX,smtp,DIRECT

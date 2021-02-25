@@ -1006,7 +1006,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - '俄罗斯 节点1(登录xindongli129.xyz)'
       - '加拿大 VIP1节点1'
       - '台湾 VIP1节点A1'
       - '新加坡 V2ray节点3'
@@ -1082,7 +1081,6 @@ proxy-groups:
       - '香港 VIP3节点A2'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4'
-      - 🚀直接连接
   -
     name: ⚓️其他流量
     type: select

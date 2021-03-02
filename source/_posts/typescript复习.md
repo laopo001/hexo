@@ -1,6 +1,6 @@
 ---
 title: ts复习
-date: 2021-03-01
+date: 2021-02-28
 ---
 
 ### typescript基础类型

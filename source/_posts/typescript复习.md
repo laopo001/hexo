@@ -133,6 +133,49 @@ a.name = "345";
 let b: ReadonlyObject<A> = a as ReadonlyObject<A>;
 b.name = "123"; //error
 ```
+* 6.根据第一参数，限制第二个参数类型
+```
+function test<T>(value: T, padding: T extends string ? number : never) {}
+test("Hello world", 1);
+
+interface Obj {
+  a: {
+    q: number,
+  };
+  b: {
+    w: number,
+  }
+}
+function test2<T extends keyof Obj>(value: T, padding: Obj[T]) { }
+test2('a', { q: 1 });
+```
+* 定义一个不可变的对象，和深度不可变的对象
+
+```
+type Primitive = undefined | null | boolean | string | number | Function;
+export type Immutable<T> = T extends Primitive
+  ? T
+  : T extends Array<infer U>
+  ? ReadonlyArray<U>
+  : /* T extends Map<infer K, infer V> ? ReadonlyMap<K, V> : // es2015+ only */
+  ReadonlyObject<T>;
+
+
+export type DeepImmutable<T> = T extends Primitive
+  ? T
+  : T extends Array<infer U>
+  ? DeepImmutableArray<U>
+  : /* T extends Map<infer K, infer V> ? DeepImmutableMap<K, V> : // es2015+ only */
+  DeepImmutableObject<T>;
+
+
+interface DeepImmutableArray<T> extends ReadonlyArray<DeepImmutable<T>> { }
+
+type DeepImmutableObject<T> = { readonly [K in keyof T]: DeepImmutable<T[K]> };
+
+export type ReadonlyObject<T> = { readonly [K in keyof T]: T[K] };
+```
+
 
 
 

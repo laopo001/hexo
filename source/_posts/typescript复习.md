@@ -19,7 +19,7 @@ p1.x = 5; // error!
 Cannot assign to 'x' because it is a read-only property.
 ```
 
-### ClassName
+### Class
 ```
 class Point {
   readonly id: number;

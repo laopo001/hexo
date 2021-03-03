@@ -38,6 +38,7 @@ class Point {
 
 let a = new Point("world");
 let b = new Point("world", Math.random());
+
 ```
 
 ### 泛型 Generics
@@ -89,7 +90,7 @@ type X = { name: string, age: number };
 type Y = keyof X; // Y = "name" | "age"
 ```
 
-* extends + infer, **T extends U ? X : Y**  跟 JS 中的条件表达式一样，如果extends语句为真，则取X类型 ，反之得到Y类型 。我们这里把X称为条件类型的真分支，Y 称为假分支。表示在 extends 条件语句中待推断的类型变量。
+* extends + infer, **T extends U ? X : Y**  跟 JS 中的条件表达式一样，如果extends语句为真，则取X类型 ，反之得到Y类型 。我们这里把X称为条件类型的真分支，Y 称为假分支。infer表示在 extends 条件语句中待推断的类型变量。
 ```typescript
 type ReturnType<T> = T extends (...args: any[]) => infer P ? P : any;
 
@@ -149,7 +150,7 @@ interface Obj {
 function test2<T extends keyof Obj>(value: T, padding: Obj[T]) { }
 test2('a', { q: 1 });
 ```
-* 定义一个不可变的对象，和深度不可变的对象
+* 7.义一个不可变的对象，和深度不可变的对象
 
 ```typescript
 type Primitive = undefined | null | boolean | string | number | Function;
@@ -169,11 +170,13 @@ export type DeepImmutable<T> = T extends Primitive
   DeepImmutableObject<T>;
 
 
-interface DeepImmutableArray<T> extends ReadonlyArray<DeepImmutable<T>> { }
+type DeepImmutableArray<T> = ReadonlyArray<DeepImmutable<T>>;
 
 type DeepImmutableObject<T> = { readonly [K in keyof T]: DeepImmutable<T[K]> };
 
 export type ReadonlyObject<T> = { readonly [K in keyof T]: T[K] };
+
+/* type DeepImmutableMap<K, V> = ReadonlyMap<DeepImmutable<K>, DeepImmutable<V>>  // es2015+ only */
 ```
 
 

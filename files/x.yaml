@@ -1,5 +1,5 @@
 #---------------------------------------------------#
-## 上次更新于：2021-02-25 05:27:46
+## 上次更新于：2021-03-15 11:50:45
 #---------------------------------------------------#
 
 port: 7890
@@ -38,19 +38,6 @@ proxies:
     ws-headers:
       Host: can.125ccc.xyz
   -
-    name: '台湾 VIP1节点A1'
-    type: vmess
-    server: tw.122ccc.xyz
-    port: 11086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: tw.122ccc.xyz
-  -
     name: '新加坡 V2ray节点3'
     type: vmess
     server: v1sg3.125ccc.xyz
@@ -77,7 +64,7 @@ proxies:
     ws-headers:
       Host: nsg1.125ccc.xyz
   -
-    name: '新加坡 VIP1节点2'
+    name: '新加坡 VIP1节点2T'
     type: vmess
     server: nsg2.125ccc.xyz
     port: 10086
@@ -142,19 +129,6 @@ proxies:
     ws-headers:
       Host: vsg3.122ccc.xyz
   -
-    name: '新加坡 VIP2节点1'
-    type: vmess
-    server: vip2sg1.122ccc.xyz
-    port: 10086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: vip2sg1.122ccc.xyz
-  -
     name: '新加坡 VIP3节点1'
     type: vmess
     server: vsg4.125ccc.xyz
@@ -168,32 +142,6 @@ proxies:
     ws-headers:
       Host: vsg4.125ccc.xyz
   -
-    name: '日本 VIP1节点1'
-    type: vmess
-    server: jp1.122ccc.xyz
-    port: 10086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: jp1.122ccc.xyz
-  -
-    name: '日本 VIP1节点A1'
-    type: vmess
-    server: jpa1.123cc.xyz
-    port: 16086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: jpa1.123cc.xyz
-  -
     name: '日本 VIP1节点A2'
     type: vmess
     server: jpa2.123cc.xyz
@@ -206,19 +154,6 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: jpa2.123cc.xyz
-  -
-    name: '日本 VIP2节点2'
-    type: vmess
-    server: vip2jp2.125ccc.xyz
-    port: 10086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: vip2jp2.125ccc.xyz
   -
     name: '日本 VIP3节点1'
     type: vmess
@@ -258,6 +193,19 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip3jpa2.123cc.xyz
+  -
+    name: '日本 专线节点A1(2500M)'
+    type: vmess
+    server: hkvip4a1.125ccc.xyz
+    port: 11086
+    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /v2ray
+    ws-headers:
+      Host: hkvip4a1.125ccc.xyz
   -
     name: '美国  Hulu/Netflix/Hbo专线L1(禁止BT下载)'
     type: vmess
@@ -415,19 +363,6 @@ proxies:
     ws-headers:
       Host: usb5.122ccc.xyz
   -
-    name: '美国 VIP1节点B6'
-    type: vmess
-    server: usb6.123cc.xyz
-    port: 16086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: usb6.123cc.xyz
-  -
     name: '美国 VIP1节点C1'
     type: vmess
     server: usc1.122ccc.xyz
@@ -457,7 +392,7 @@ proxies:
     name: '美国 VIP1节点C3'
     type: vmess
     server: usc3.122ccc.xyz
-    port: 10086
+    port: 16086
     uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
     alterId: 2
     cipher: auto
@@ -470,7 +405,7 @@ proxies:
     name: '美国 VIP1节点C4'
     type: vmess
     server: usc4.122ccc.xyz
-    port: 10086
+    port: 16086
     uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
     alterId: 2
     cipher: auto
@@ -596,6 +531,19 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: usa5.122ccc.xyz
+  -
+    name: '美国 专线节点A1(直播/峰值2500M)'
+    type: vmess
+    server: usvip4a1.125ccc.xyz
+    port: 10086
+    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /v2ray
+    ws-headers:
+      Host: usvip4a1.125ccc.xyz
   -
     name: '香港 F1'
     type: vmess
@@ -753,10 +701,10 @@ proxies:
     ws-headers:
       Host: hkd1.125ccc.xyz
   -
-    name: '香港 VIP2节点11'
+    name: '香港 VIP2节点10'
     type: vmess
-    server: hk11.125ccc.xyz
-    port: 11086
+    server: hk10.125ccc.xyz
+    port: 10086
     uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
     alterId: 2
     cipher: auto
@@ -764,7 +712,7 @@ proxies:
     network: ws
     ws-path: /v2ray
     ws-headers:
-      Host: hk11.125ccc.xyz
+      Host: hk10.125ccc.xyz
   -
     name: '香港 VIP2节点2(T)'
     type: vmess
@@ -817,19 +765,6 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: hk05.123cc.xyz
-  -
-    name: '香港 VIP2节点7'
-    type: vmess
-    server: shk7.125ccc.xyz
-    port: 10086
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: shk7.125ccc.xyz
   -
     name: '香港 VIP2节点T1'
     type: vmess
@@ -886,7 +821,7 @@ proxies:
     name: '香港 VIP2节点T5'
     type: vmess
     server: hk25.125ccc.xyz
-    port: 10086
+    port: 11086
     uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
     alterId: 2
     cipher: auto
@@ -934,19 +869,6 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip3hk3.125ccc.xyz
-  -
-    name: '香港 VIP3节点9'
-    type: vmess
-    server: shk9.125ccc.xyz
-    port: 11186
-    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: shk9.125ccc.xyz
   -
     name: '香港 VIP3节点A1'
     type: vmess
@@ -999,6 +921,19 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: vip3jpa1.122ccc.xyz
+  -
+    name: '香港 专线节点A1'
+    type: vmess
+    server: hkvip2a2.123cc.xyz
+    port: 10086
+    uuid: 9e316d40-b07b-3f56-8ecf-369980edce80
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /v2ray
+    ws-headers:
+      Host: hkvip2a2.123cc.xyz
 proxy-groups:
   -
     name: 🔰国外流量
@@ -1006,6 +941,47 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - '俄罗斯 节点1(登录xindongli129.xyz)'
+      - '加拿大 VIP1节点1'
+      - '新加坡 V2ray节点3'
+      - '新加坡 VIP1节点1'
+      - '新加坡 VIP1节点2T'
+      - '新加坡 VIP1节点4'
+      - '新加坡 VIP1节点5'
+      - '新加坡 VIP1节点B2'
+      - '新加坡 VIP1节点B3'
+      - '新加坡 VIP3节点1'
+      - '日本 VIP1节点A2'
+      - '日本 VIP3节点1'
+      - '日本 VIP3节点A1'
+      - '日本 VIP3节点A2'
+      - '日本 专线节点A1(2500M)'
+      - '美国  Hulu/Netflix/Hbo专线L1(禁止BT下载)'
+      - '美国  Hulu/Netflix/Hbo专线L3(禁止BT下载)'
+      - '美国 VIP1节点A1'
+      - '美国 VIP1节点A2'
+      - '美国 VIP1节点A3'
+      - '美国 VIP1节点A4'
+      - '美国 VIP1节点A5'
+      - '美国 VIP1节点B1'
+      - '美国 VIP1节点B2'
+      - '美国 VIP1节点B3'
+      - '美国 VIP1节点B4'
+      - '美国 VIP1节点B5'
+      - '美国 VIP1节点C1'
+      - '美国 VIP1节点C2'
+      - '美国 VIP1节点C3'
+      - '美国 VIP1节点C4'
+      - '美国 VIP1节点C5(注册登录xindongli129.xyz)'
+      - '美国 VIP1节点C6'
+      - '美国 VIP2节点A1'
+      - '美国 VIP2节点A2'
+      - '美国 VIP2节点A3'
+      - '美国 VIP3节点A1'
+      - '美国 VIP3节点A2'
+      - '美国 VIP3节点A3'
+      - '美国 VIP3节点A5'
+      - '美国 专线节点A1(直播/峰值2500M)'
       - '香港 F1'
       - '香港 VIP1节点1(T)'
       - '香港 VIP1节点12'
@@ -1018,12 +994,11 @@ proxy-groups:
       - '香港 VIP1节点A2'
       - '香港 VIP1节点B1(原生IP/TVBS/Netflix)'
       - '香港 VIP2节点1'
-      - '香港 VIP2节点11'
+      - '香港 VIP2节点10'
       - '香港 VIP2节点2(T)'
       - '香港 VIP2节点3(T)'
       - '香港 VIP2节点4(T)'
       - '香港 VIP2节点5(T)'
-      - '香港 VIP2节点7'
       - '香港 VIP2节点T1'
       - '香港 VIP2节点T2'
       - '香港 VIP2节点T3'
@@ -1032,11 +1007,11 @@ proxy-groups:
       - '香港 VIP3节点10'
       - '香港 VIP3节点2'
       - '香港 VIP3节点3'
-      - '香港 VIP3节点9'
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A2'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4'
+      - '香港 专线节点A1'
   -
     name: ⚓️其他流量
     type: select
@@ -1050,23 +1025,19 @@ proxy-groups:
       - 🔰国外流量
       - '俄罗斯 节点1(登录xindongli129.xyz)'
       - '加拿大 VIP1节点1'
-      - '台湾 VIP1节点A1'
       - '新加坡 V2ray节点3'
       - '新加坡 VIP1节点1'
-      - '新加坡 VIP1节点2'
+      - '新加坡 VIP1节点2T'
       - '新加坡 VIP1节点4'
       - '新加坡 VIP1节点5'
       - '新加坡 VIP1节点B2'
       - '新加坡 VIP1节点B3'
-      - '新加坡 VIP2节点1'
       - '新加坡 VIP3节点1'
-      - '日本 VIP1节点1'
-      - '日本 VIP1节点A1'
       - '日本 VIP1节点A2'
-      - '日本 VIP2节点2'
       - '日本 VIP3节点1'
       - '日本 VIP3节点A1'
       - '日本 VIP3节点A2'
+      - '日本 专线节点A1(2500M)'
       - '美国  Hulu/Netflix/Hbo专线L1(禁止BT下载)'
       - '美国  Hulu/Netflix/Hbo专线L3(禁止BT下载)'
       - '美国 VIP1节点A1'
@@ -1079,7 +1050,6 @@ proxy-groups:
       - '美国 VIP1节点B3'
       - '美国 VIP1节点B4'
       - '美国 VIP1节点B5'
-      - '美国 VIP1节点B6'
       - '美国 VIP1节点C1'
       - '美国 VIP1节点C2'
       - '美国 VIP1节点C3'
@@ -1093,6 +1063,7 @@ proxy-groups:
       - '美国 VIP3节点A2'
       - '美国 VIP3节点A3'
       - '美国 VIP3节点A5'
+      - '美国 专线节点A1(直播/峰值2500M)'
       - '香港 F1'
       - '香港 VIP1节点1(T)'
       - '香港 VIP1节点12'
@@ -1105,12 +1076,11 @@ proxy-groups:
       - '香港 VIP1节点A2'
       - '香港 VIP1节点B1(原生IP/TVBS/Netflix)'
       - '香港 VIP2节点1'
-      - '香港 VIP2节点11'
+      - '香港 VIP2节点10'
       - '香港 VIP2节点2(T)'
       - '香港 VIP2节点3(T)'
       - '香港 VIP2节点4(T)'
       - '香港 VIP2节点5(T)'
-      - '香港 VIP2节点7'
       - '香港 VIP2节点T1'
       - '香港 VIP2节点T2'
       - '香港 VIP2节点T3'
@@ -1119,11 +1089,11 @@ proxy-groups:
       - '香港 VIP3节点10'
       - '香港 VIP3节点2'
       - '香港 VIP3节点3'
-      - '香港 VIP3节点9'
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A2'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4'
+      - '香港 专线节点A1'
   -
     name: 🎬Youtube
     type: select
@@ -1131,23 +1101,19 @@ proxy-groups:
       - 🔰国外流量
       - '俄罗斯 节点1(登录xindongli129.xyz)'
       - '加拿大 VIP1节点1'
-      - '台湾 VIP1节点A1'
       - '新加坡 V2ray节点3'
       - '新加坡 VIP1节点1'
-      - '新加坡 VIP1节点2'
+      - '新加坡 VIP1节点2T'
       - '新加坡 VIP1节点4'
       - '新加坡 VIP1节点5'
       - '新加坡 VIP1节点B2'
       - '新加坡 VIP1节点B3'
-      - '新加坡 VIP2节点1'
       - '新加坡 VIP3节点1'
-      - '日本 VIP1节点1'
-      - '日本 VIP1节点A1'
       - '日本 VIP1节点A2'
-      - '日本 VIP2节点2'
       - '日本 VIP3节点1'
       - '日本 VIP3节点A1'
       - '日本 VIP3节点A2'
+      - '日本 专线节点A1(2500M)'
       - '美国  Hulu/Netflix/Hbo专线L1(禁止BT下载)'
       - '美国  Hulu/Netflix/Hbo专线L3(禁止BT下载)'
       - '美国 VIP1节点A1'
@@ -1160,7 +1126,6 @@ proxy-groups:
       - '美国 VIP1节点B3'
       - '美国 VIP1节点B4'
       - '美国 VIP1节点B5'
-      - '美国 VIP1节点B6'
       - '美国 VIP1节点C1'
       - '美国 VIP1节点C2'
       - '美国 VIP1节点C3'
@@ -1174,6 +1139,7 @@ proxy-groups:
       - '美国 VIP3节点A2'
       - '美国 VIP3节点A3'
       - '美国 VIP3节点A5'
+      - '美国 专线节点A1(直播/峰值2500M)'
       - '香港 F1'
       - '香港 VIP1节点1(T)'
       - '香港 VIP1节点12'
@@ -1186,12 +1152,11 @@ proxy-groups:
       - '香港 VIP1节点A2'
       - '香港 VIP1节点B1(原生IP/TVBS/Netflix)'
       - '香港 VIP2节点1'
-      - '香港 VIP2节点11'
+      - '香港 VIP2节点10'
       - '香港 VIP2节点2(T)'
       - '香港 VIP2节点3(T)'
       - '香港 VIP2节点4(T)'
       - '香港 VIP2节点5(T)'
-      - '香港 VIP2节点7'
       - '香港 VIP2节点T1'
       - '香港 VIP2节点T2'
       - '香港 VIP2节点T3'
@@ -1200,11 +1165,11 @@ proxy-groups:
       - '香港 VIP3节点10'
       - '香港 VIP3节点2'
       - '香港 VIP3节点3'
-      - '香港 VIP3节点9'
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A2'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4'
+      - '香港 专线节点A1'
   -
     name: 🎬Netflix
     type: select
@@ -1212,23 +1177,19 @@ proxy-groups:
       - 🔰国外流量
       - '俄罗斯 节点1(登录xindongli129.xyz)'
       - '加拿大 VIP1节点1'
-      - '台湾 VIP1节点A1'
       - '新加坡 V2ray节点3'
       - '新加坡 VIP1节点1'
-      - '新加坡 VIP1节点2'
+      - '新加坡 VIP1节点2T'
       - '新加坡 VIP1节点4'
       - '新加坡 VIP1节点5'
       - '新加坡 VIP1节点B2'
       - '新加坡 VIP1节点B3'
-      - '新加坡 VIP2节点1'
       - '新加坡 VIP3节点1'
-      - '日本 VIP1节点1'
-      - '日本 VIP1节点A1'
       - '日本 VIP1节点A2'
-      - '日本 VIP2节点2'
       - '日本 VIP3节点1'
       - '日本 VIP3节点A1'
       - '日本 VIP3节点A2'
+      - '日本 专线节点A1(2500M)'
       - '美国  Hulu/Netflix/Hbo专线L1(禁止BT下载)'
       - '美国  Hulu/Netflix/Hbo专线L3(禁止BT下载)'
       - '美国 VIP1节点A1'
@@ -1241,7 +1202,6 @@ proxy-groups:
       - '美国 VIP1节点B3'
       - '美国 VIP1节点B4'
       - '美国 VIP1节点B5'
-      - '美国 VIP1节点B6'
       - '美国 VIP1节点C1'
       - '美国 VIP1节点C2'
       - '美国 VIP1节点C3'
@@ -1255,6 +1215,7 @@ proxy-groups:
       - '美国 VIP3节点A2'
       - '美国 VIP3节点A3'
       - '美国 VIP3节点A5'
+      - '美国 专线节点A1(直播/峰值2500M)'
       - '香港 F1'
       - '香港 VIP1节点1(T)'
       - '香港 VIP1节点12'
@@ -1267,12 +1228,11 @@ proxy-groups:
       - '香港 VIP1节点A2'
       - '香港 VIP1节点B1(原生IP/TVBS/Netflix)'
       - '香港 VIP2节点1'
-      - '香港 VIP2节点11'
+      - '香港 VIP2节点10'
       - '香港 VIP2节点2(T)'
       - '香港 VIP2节点3(T)'
       - '香港 VIP2节点4(T)'
       - '香港 VIP2节点5(T)'
-      - '香港 VIP2节点7'
       - '香港 VIP2节点T1'
       - '香港 VIP2节点T2'
       - '香港 VIP2节点T3'
@@ -1281,11 +1241,11 @@ proxy-groups:
       - '香港 VIP3节点10'
       - '香港 VIP3节点2'
       - '香港 VIP3节点3'
-      - '香港 VIP3节点9'
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A2'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4'
+      - '香港 专线节点A1'
   -
     name: 🎬国外媒体
     type: select
@@ -1293,23 +1253,19 @@ proxy-groups:
       - 🔰国外流量
       - '俄罗斯 节点1(登录xindongli129.xyz)'
       - '加拿大 VIP1节点1'
-      - '台湾 VIP1节点A1'
       - '新加坡 V2ray节点3'
       - '新加坡 VIP1节点1'
-      - '新加坡 VIP1节点2'
+      - '新加坡 VIP1节点2T'
       - '新加坡 VIP1节点4'
       - '新加坡 VIP1节点5'
       - '新加坡 VIP1节点B2'
       - '新加坡 VIP1节点B3'
-      - '新加坡 VIP2节点1'
       - '新加坡 VIP3节点1'
-      - '日本 VIP1节点1'
-      - '日本 VIP1节点A1'
       - '日本 VIP1节点A2'
-      - '日本 VIP2节点2'
       - '日本 VIP3节点1'
       - '日本 VIP3节点A1'
       - '日本 VIP3节点A2'
+      - '日本 专线节点A1(2500M)'
       - '美国  Hulu/Netflix/Hbo专线L1(禁止BT下载)'
       - '美国  Hulu/Netflix/Hbo专线L3(禁止BT下载)'
       - '美国 VIP1节点A1'
@@ -1322,7 +1278,6 @@ proxy-groups:
       - '美国 VIP1节点B3'
       - '美国 VIP1节点B4'
       - '美国 VIP1节点B5'
-      - '美国 VIP1节点B6'
       - '美国 VIP1节点C1'
       - '美国 VIP1节点C2'
       - '美国 VIP1节点C3'
@@ -1336,6 +1291,7 @@ proxy-groups:
       - '美国 VIP3节点A2'
       - '美国 VIP3节点A3'
       - '美国 VIP3节点A5'
+      - '美国 专线节点A1(直播/峰值2500M)'
       - '香港 F1'
       - '香港 VIP1节点1(T)'
       - '香港 VIP1节点12'
@@ -1348,12 +1304,11 @@ proxy-groups:
       - '香港 VIP1节点A2'
       - '香港 VIP1节点B1(原生IP/TVBS/Netflix)'
       - '香港 VIP2节点1'
-      - '香港 VIP2节点11'
+      - '香港 VIP2节点10'
       - '香港 VIP2节点2(T)'
       - '香港 VIP2节点3(T)'
       - '香港 VIP2节点4(T)'
       - '香港 VIP2节点5(T)'
-      - '香港 VIP2节点7'
       - '香港 VIP2节点T1'
       - '香港 VIP2节点T2'
       - '香港 VIP2节点T3'
@@ -1362,11 +1317,11 @@ proxy-groups:
       - '香港 VIP3节点10'
       - '香港 VIP3节点2'
       - '香港 VIP3节点3'
-      - '香港 VIP3节点9'
       - '香港 VIP3节点A1'
       - '香港 VIP3节点A2'
       - '香港 VIP3节点A3'
       - '香港 VIP3节点A4'
+      - '香港 专线节点A1'
   -
     name: 🍎苹果服务
     type: select
